@@ -1,0 +1,6 @@
+_pipeline/
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.zip

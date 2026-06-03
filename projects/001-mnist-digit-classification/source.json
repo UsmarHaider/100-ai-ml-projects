@@ -1,0 +1,19 @@
+{
+  "topic_id": "001",
+  "title": "MNIST Handwritten Digit Classification",
+  "domain": "CV",
+  "kernel_ref": "kanncaa1/pytorch-tutorial-for-deep-learning-lovers",
+  "kernel_url": "https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers",
+  "kernel_title": "Pytorch Tutorial for Deep Learning Lovers",
+  "author": "DATAI",
+  "votes": "5193",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "digit-recognizer",
+      "url": "https://www.kaggle.com/competitions/digit-recognizer"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 39.8
+}
