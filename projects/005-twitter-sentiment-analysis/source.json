@@ -1,0 +1,21 @@
+{
+  "topic_id": "005",
+  "title": "Twitter Sentiment Analysis",
+  "domain": "NLP",
+  "kernel_ref": "robikscube/sentiment-analysis-python-youtube-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial",
+  "kernel_title": "Sentiment Analysis Python \ud83e\udd17 [Youtube Tutorial]",
+  "author": "Rob Mulla",
+  "votes": "5984",
+  "datasets": [
+    {
+      "ref": "snap/amazon-fine-food-reviews",
+      "size_mb": 642.49,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 19.3
+}

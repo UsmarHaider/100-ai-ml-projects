@@ -1,6 +1,6 @@
 # 100 Days of ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-4%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-2-blue) ![NLP](https://img.shields.io/badge/NLP-1-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-1-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-5%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-2-blue) ![NLP](https://img.shields.io/badge/NLP-2-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-1-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published daily** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -20,13 +20,14 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [MNIST Handwritten Digit Classification](projects/001-mnist-digit-classification) | [DATAI](https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers) | 5,193 | 🔗 |
 | [CIFAR-10 Image Classification](projects/004-cifar10-image-classification) | [Farzad Nekouei](https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn) | 2,198 | 🔗 |
 
-## 📝 Natural Language Processing (1 published)
+## 📝 Natural Language Processing (2 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
 | Project | Original author | ⭐ Kaggle votes | Data |
 |---|---|---|---|
 | [IMDB Movie Review Sentiment Analysis](projects/002-imdb-sentiment-analysis) | [Lakshmipathi N](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) | 3,719 | 🔗 |
+| [Twitter Sentiment Analysis](projects/005-twitter-sentiment-analysis) | [Rob Mulla](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial) | 5,984 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (1 published)
 
