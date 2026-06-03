@@ -1,0 +1,14 @@
+{
+  "topic_id": "004",
+  "title": "CIFAR-10 Image Classification",
+  "domain": "CV",
+  "kernel_ref": "farzadnekouei/cifar-10-image-classification-with-cnn",
+  "kernel_url": "https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn",
+  "kernel_title": "CIFAR-10 Image Classification with CNN",
+  "author": "Farzad Nekouei",
+  "votes": "2198",
+  "datasets": [],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 46.7
+}
