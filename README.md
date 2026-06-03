@@ -1,6 +1,6 @@
 # 100 Days of ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-1%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-1-blue) ![NLP](https://img.shields.io/badge/NLP-0-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-0-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-2%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-1-blue) ![NLP](https://img.shields.io/badge/NLP-1-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-0-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published daily** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -18,6 +18,14 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | Project | Original author | ⭐ Kaggle votes | Data |
 |---|---|---|---|
 | [MNIST Handwritten Digit Classification](projects/001-mnist-digit-classification) | [DATAI](https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers) | 5,193 | 🔗 |
+
+## 📝 Natural Language Processing (1 published)
+
+Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
+
+| Project | Original author | ⭐ Kaggle votes | Data |
+|---|---|---|---|
+| [IMDB Movie Review Sentiment Analysis](projects/002-imdb-sentiment-analysis) | [Lakshmipathi N](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) | 3,719 | 🔗 |
 
 ## Getting started
 

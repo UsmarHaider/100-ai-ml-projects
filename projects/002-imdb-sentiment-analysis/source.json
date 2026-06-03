@@ -1,0 +1,21 @@
+{
+  "topic_id": "002",
+  "title": "IMDB Movie Review Sentiment Analysis",
+  "domain": "NLP",
+  "kernel_ref": "lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews",
+  "kernel_url": "https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews",
+  "kernel_title": " Sentiment Analysis of IMDB Movie Reviews",
+  "author": "Lakshmipathi N",
+  "votes": "3719",
+  "datasets": [
+    {
+      "ref": "lakshmi25npathi/imdb-dataset-of-50k-movie-reviews",
+      "size_mb": 63.14,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 20.6
+}
