@@ -1,0 +1,19 @@
+{
+  "topic_id": "003",
+  "title": "Titanic Survival Prediction",
+  "domain": "ML",
+  "kernel_ref": "startupsci/titanic-data-science-solutions",
+  "kernel_url": "https://www.kaggle.com/code/startupsci/titanic-data-science-solutions",
+  "kernel_title": "Titanic Data Science Solutions",
+  "author": "Manav Sehgal",
+  "votes": "39960",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "titanic",
+      "url": "https://www.kaggle.com/competitions/titanic"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 55.5
+}

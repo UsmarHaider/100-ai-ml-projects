@@ -1,6 +1,6 @@
 # 100 Days of ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-2%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-1-blue) ![NLP](https://img.shields.io/badge/NLP-1-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-0-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-3%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-1-blue) ![NLP](https://img.shields.io/badge/NLP-1-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-1-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published daily** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -26,6 +26,14 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | Project | Original author | ⭐ Kaggle votes | Data |
 |---|---|---|---|
 | [IMDB Movie Review Sentiment Analysis](projects/002-imdb-sentiment-analysis) | [Lakshmipathi N](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) | 3,719 | 🔗 |
+
+## 📊 Machine Learning & Data Science (1 published)
+
+Regression, classification, clustering, time series, recommenders and EDA.
+
+| Project | Original author | ⭐ Kaggle votes | Data |
+|---|---|---|---|
+| [Titanic Survival Prediction](projects/003-titanic-survival-prediction) | [Manav Sehgal](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions) | 39,960 | 🔗 |
 
 ## Getting started
 
