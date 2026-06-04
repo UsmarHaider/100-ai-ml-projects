@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-7%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-3-blue) ![NLP](https://img.shields.io/badge/NLP-2-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-2-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-8%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-3-blue) ![NLP](https://img.shields.io/badge/NLP-3-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-2-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -21,7 +21,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [CIFAR-10 Image Classification](projects/004-cifar10-image-classification) | [Farzad Nekouei](https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn) | 2,198 | 🔗 |
 | [Fashion MNIST Clothing Classification](projects/007-fashion-mnist-classification) | [Pavan Sanagapati](https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide) | 1,613 | 🔗 |
 
-## 📝 Natural Language Processing (2 published)
+## 📝 Natural Language Processing (3 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -29,6 +29,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 |---|---|---|---|
 | [IMDB Movie Review Sentiment Analysis](projects/002-imdb-sentiment-analysis) | [Lakshmipathi N](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) | 3,719 | 🔗 |
 | [Twitter Sentiment Analysis](projects/005-twitter-sentiment-analysis) | [Rob Mulla](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial) | 5,984 | 🔗 |
+| [Spam Email/SMS Detection](projects/008-spam-email-detection) | [Fares Sayah](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners) | 1,419 | ✅ |
 
 ## 📊 Machine Learning & Data Science (2 published)
 

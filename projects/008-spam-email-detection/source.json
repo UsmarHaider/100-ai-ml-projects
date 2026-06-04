@@ -1,0 +1,34 @@
+{
+  "topic_id": "008",
+  "title": "Spam Email/SMS Detection",
+  "domain": "NLP",
+  "kernel_ref": "faressayah/natural-language-processing-nlp-for-beginners",
+  "kernel_url": "https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners",
+  "kernel_title": "Natural Language Processing (NLP) for Beginners",
+  "author": "Fares Sayah",
+  "votes": "1419",
+  "datasets": [
+    {
+      "ref": "uciml/sms-spam-collection-dataset",
+      "size_mb": 0.48,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "jigsaw-multilingual-toxic-comment-classification",
+      "url": "https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification"
+    },
+    {
+      "ref": "nlp-getting-started",
+      "url": "https://www.kaggle.com/competitions/nlp-getting-started"
+    },
+    {
+      "ref": "tweet-sentiment-extraction",
+      "url": "https://www.kaggle.com/competitions/tweet-sentiment-extraction"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 36.7
+}
