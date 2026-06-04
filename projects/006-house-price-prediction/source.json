@@ -1,0 +1,19 @@
+{
+  "topic_id": "006",
+  "title": "House Price Prediction",
+  "domain": "ML",
+  "kernel_ref": "gusthema/house-prices-prediction-using-tfdf",
+  "kernel_url": "https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf",
+  "kernel_title": "House Prices Prediction using TFDF",
+  "author": "Gusthema",
+  "votes": "15022",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "house-prices-advanced-regression-techniques",
+      "url": "https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 30.0
+}
