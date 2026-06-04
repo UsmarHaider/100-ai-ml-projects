@@ -1,0 +1,21 @@
+{
+  "topic_id": "009",
+  "title": "Credit Card Fraud Detection",
+  "domain": "ML",
+  "kernel_ref": "janiobachmann/credit-fraud-dealing-with-imbalanced-datasets",
+  "kernel_url": "https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets",
+  "kernel_title": "Credit Fraud  || Dealing with Imbalanced Datasets",
+  "author": "Janio Martinez Bachmann",
+  "votes": "15064",
+  "datasets": [
+    {
+      "ref": "mlg-ulb/creditcardfraud",
+      "size_mb": 143.84,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 80.1
+}
