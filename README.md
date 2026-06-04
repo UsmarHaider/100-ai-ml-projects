@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-6%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-2-blue) ![NLP](https://img.shields.io/badge/NLP-2-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-2-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-7%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-3-blue) ![NLP](https://img.shields.io/badge/NLP-2-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-2-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (2 published)
+## 🖼 Computer Vision (3 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -19,6 +19,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 |---|---|---|---|
 | [MNIST Handwritten Digit Classification](projects/001-mnist-digit-classification) | [DATAI](https://www.kaggle.com/code/kanncaa1/pytorch-tutorial-for-deep-learning-lovers) | 5,193 | 🔗 |
 | [CIFAR-10 Image Classification](projects/004-cifar10-image-classification) | [Farzad Nekouei](https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn) | 2,198 | 🔗 |
+| [Fashion MNIST Clothing Classification](projects/007-fashion-mnist-classification) | [Pavan Sanagapati](https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide) | 1,613 | 🔗 |
 
 ## 📝 Natural Language Processing (2 published)
 

@@ -1,0 +1,21 @@
+{
+  "topic_id": "007",
+  "title": "Fashion MNIST Clothing Classification",
+  "domain": "CV",
+  "kernel_ref": "pavansanagapati/a-simple-cnn-model-beginner-guide",
+  "kernel_url": "https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide",
+  "kernel_title": "A Simple CNN Model Beginner Guide !!!!!!",
+  "author": "Pavan Sanagapati",
+  "votes": "1613",
+  "datasets": [
+    {
+      "ref": "zalando-research/fashionmnist",
+      "size_mb": 200.44,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/zalando-research/fashionmnist"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 30.0
+}
