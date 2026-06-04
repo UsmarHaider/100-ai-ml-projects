@@ -1,8 +1,8 @@
-# 100 Days of ML Projects — CV · NLP · ML
+# 100 AI/ML Projects — CV · NLP · ML
 
 ![Progress](https://img.shields.io/badge/published-5%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-2-blue) ![NLP](https://img.shields.io/badge/NLP-2-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-1-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
-**New projects published daily** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
+**New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
 - `notebook.ipynb` — a complete, runnable Jupyter notebook (curated from top-voted Kaggle work)
 - `README.md` — a full report: problem, dataset, approach, results and how to run
@@ -40,7 +40,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 ## Getting started
 
 ```bash
-git clone https://github.com/UsmarHaider/100-days-of-ml-projects.git
+git clone https://github.com/UsmarHaider/100-ai-ml-projects.git
 pip install jupyter numpy pandas scikit-learn matplotlib seaborn
 cd projects/<any-project>
 jupyter notebook notebook.ipynb
