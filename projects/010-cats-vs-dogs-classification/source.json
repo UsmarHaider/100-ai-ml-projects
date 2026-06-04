@@ -1,0 +1,19 @@
+{
+  "topic_id": "010",
+  "title": "Cats vs Dogs Image Classification",
+  "domain": "CV",
+  "kernel_ref": "uysimty/keras-cnn-dog-or-cat-classification",
+  "kernel_url": "https://www.kaggle.com/code/uysimty/keras-cnn-dog-or-cat-classification",
+  "kernel_title": "Keras CNN Dog or Cat Classification",
+  "author": "Uysim",
+  "votes": "4696",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "dogs-vs-cats",
+      "url": "https://www.kaggle.com/competitions/dogs-vs-cats"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 15.9
+}
