@@ -1,0 +1,38 @@
+{
+  "topic_id": "011",
+  "title": "Fake News Detection",
+  "domain": "NLP",
+  "kernel_ref": "awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train",
+  "kernel_url": "https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train",
+  "kernel_title": "Detect Fake Text: KerasNLP [TF/Torch/JAX][Train]",
+  "author": "Awsaf",
+  "votes": "1501",
+  "datasets": [
+    {
+      "ref": "alejopaullier/argugpt",
+      "size_mb": 15.7,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/alejopaullier/argugpt"
+    },
+    {
+      "ref": "alejopaullier/daigt-external-dataset",
+      "size_mb": 9.03,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset"
+    },
+    {
+      "ref": "thedrcat/daigt-proper-train-dataset",
+      "size_mb": 353.24,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/thedrcat/daigt-proper-train-dataset"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "llm-detect-ai-generated-text",
+      "url": "https://www.kaggle.com/competitions/llm-detect-ai-generated-text"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 218.8
+}
