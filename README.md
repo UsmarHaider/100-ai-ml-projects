@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-12%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-4-blue) ![NLP](https://img.shields.io/badge/NLP-4-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-13%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-5-blue) ![NLP](https://img.shields.io/badge/NLP-4-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (4 published)
+## 🖼 Computer Vision (5 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -21,6 +21,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [CIFAR-10 Image Classification](projects/004-cifar10-image-classification) | [Farzad Nekouei](https://www.kaggle.com/code/farzadnekouei/cifar-10-image-classification-with-cnn) | 2,198 | 🔗 |
 | [Fashion MNIST Clothing Classification](projects/007-fashion-mnist-classification) | [Pavan Sanagapati](https://www.kaggle.com/code/pavansanagapati/a-simple-cnn-model-beginner-guide) | 1,613 | 🔗 |
 | [Cats vs Dogs Image Classification](projects/010-cats-vs-dogs-classification) | [Uysim](https://www.kaggle.com/code/uysimty/keras-cnn-dog-or-cat-classification) | 4,696 | 🔗 |
+| [Face Mask Detection](projects/013-face-mask-detection) | [Nagesh Singh Chauhan](https://www.kaggle.com/code/nageshsingh/mask-and-social-distancing-detection-using-vgg19) | 1,117 | 🔗 |
 
 ## 📝 Natural Language Processing (4 published)
 

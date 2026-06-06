@@ -1,0 +1,33 @@
+{
+  "topic_id": "013",
+  "title": "Face Mask Detection",
+  "domain": "CV",
+  "kernel_ref": "nageshsingh/mask-and-social-distancing-detection-using-vgg19",
+  "kernel_url": "https://www.kaggle.com/code/nageshsingh/mask-and-social-distancing-detection-using-vgg19",
+  "kernel_title": "Mask and social distancing detection using VGG19",
+  "author": "Nagesh Singh Chauhan",
+  "votes": "1117",
+  "datasets": [
+    {
+      "ref": "andrewmvd/face-mask-detection",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/andrewmvd/face-mask-detection"
+    },
+    {
+      "ref": "ashishjangra27/face-mask-12k-images-dataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset"
+    },
+    {
+      "ref": "lalitharajesh/haarcascades",
+      "size_mb": 9.31,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/lalitharajesh/haarcascades"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 860.5
+}
