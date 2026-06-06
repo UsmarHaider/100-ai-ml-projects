@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-13%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-5-blue) ![NLP](https://img.shields.io/badge/NLP-4-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-14%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-5-blue) ![NLP](https://img.shields.io/badge/NLP-5-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -23,7 +23,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Cats vs Dogs Image Classification](projects/010-cats-vs-dogs-classification) | [Uysim](https://www.kaggle.com/code/uysimty/keras-cnn-dog-or-cat-classification) | 4,696 | 🔗 |
 | [Face Mask Detection](projects/013-face-mask-detection) | [Nagesh Singh Chauhan](https://www.kaggle.com/code/nageshsingh/mask-and-social-distancing-detection-using-vgg19) | 1,117 | 🔗 |
 
-## 📝 Natural Language Processing (4 published)
+## 📝 Natural Language Processing (5 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -33,6 +33,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Twitter Sentiment Analysis](projects/005-twitter-sentiment-analysis) | [Rob Mulla](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial) | 5,984 | 🔗 |
 | [Spam Email/SMS Detection](projects/008-spam-email-detection) | [Fares Sayah](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners) | 1,419 | ✅ |
 | [Fake News Detection](projects/011-fake-news-detection) | [Awsaf](https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train) | 1,501 | 🔗 |
+| [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (4 published)
 

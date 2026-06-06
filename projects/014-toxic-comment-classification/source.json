@@ -1,0 +1,19 @@
+{
+  "topic_id": "014",
+  "title": "Toxic Comment Classification",
+  "domain": "NLP",
+  "kernel_ref": "jhoward/nb-svm-strong-linear-baseline",
+  "kernel_url": "https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline",
+  "kernel_title": "NB-SVM strong linear baseline",
+  "author": "Jeremy Howard",
+  "votes": "3108",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "jigsaw-toxic-comment-classification-challenge",
+      "url": "https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 10.1
+}
