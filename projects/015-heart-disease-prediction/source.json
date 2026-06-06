@@ -1,0 +1,21 @@
+{
+  "topic_id": "015",
+  "title": "Heart Disease Prediction",
+  "domain": "ML",
+  "kernel_ref": "desalegngeb/heart-disease-predictions",
+  "kernel_url": "https://www.kaggle.com/code/desalegngeb/heart-disease-predictions",
+  "kernel_title": "Heart Disease Predictions",
+  "author": "A Legacy Grandmaster!",
+  "votes": "4093",
+  "datasets": [
+    {
+      "ref": "data855/heart-disease",
+      "size_mb": 0.01,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/data855/heart-disease"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 62.3
+}

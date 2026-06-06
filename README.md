@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-14%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-5-blue) ![NLP](https://img.shields.io/badge/NLP-5-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-15%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-5-blue) ![NLP](https://img.shields.io/badge/NLP-5-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-5-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -35,7 +35,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Fake News Detection](projects/011-fake-news-detection) | [Awsaf](https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train) | 1,501 | 🔗 |
 | [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
 
-## 📊 Machine Learning & Data Science (4 published)
+## 📊 Machine Learning & Data Science (5 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -45,6 +45,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [House Price Prediction](projects/006-house-price-prediction) | [Gusthema](https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf) | 15,022 | 🔗 |
 | [Credit Card Fraud Detection](projects/009-credit-card-fraud-detection) | [Janio Martinez Bachmann](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) | 15,064 | 🔗 |
 | [Customer Churn Prediction](projects/012-customer-churn-prediction) | [Bharti Prasad](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction) | 3,209 | ✅ |
+| [Heart Disease Prediction](projects/015-heart-disease-prediction) | [A Legacy Grandmaster!](https://www.kaggle.com/code/desalegngeb/heart-disease-predictions) | 4,093 | ✅ |
 
 ## Getting started
 
