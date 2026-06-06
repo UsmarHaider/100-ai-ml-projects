@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-11%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-4-blue) ![NLP](https://img.shields.io/badge/NLP-4-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-3-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-12%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-4-blue) ![NLP](https://img.shields.io/badge/NLP-4-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-4-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -33,7 +33,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Spam Email/SMS Detection](projects/008-spam-email-detection) | [Fares Sayah](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners) | 1,419 | ✅ |
 | [Fake News Detection](projects/011-fake-news-detection) | [Awsaf](https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train) | 1,501 | 🔗 |
 
-## 📊 Machine Learning & Data Science (3 published)
+## 📊 Machine Learning & Data Science (4 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -42,6 +42,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Titanic Survival Prediction](projects/003-titanic-survival-prediction) | [Manav Sehgal](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions) | 39,960 | 🔗 |
 | [House Price Prediction](projects/006-house-price-prediction) | [Gusthema](https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf) | 15,022 | 🔗 |
 | [Credit Card Fraud Detection](projects/009-credit-card-fraud-detection) | [Janio Martinez Bachmann](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) | 15,064 | 🔗 |
+| [Customer Churn Prediction](projects/012-customer-churn-prediction) | [Bharti Prasad](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction) | 3,209 | ✅ |
 
 ## Getting started
 

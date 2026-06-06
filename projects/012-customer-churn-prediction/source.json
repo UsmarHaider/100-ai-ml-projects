@@ -1,0 +1,21 @@
+{
+  "topic_id": "012",
+  "title": "Customer Churn Prediction",
+  "domain": "ML",
+  "kernel_ref": "bhartiprasad17/customer-churn-prediction",
+  "kernel_url": "https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction",
+  "kernel_title": "CUSTOMER CHURN PREDICTION \ud83d\udcc8",
+  "author": "BHARTI PRASAD",
+  "votes": "3209",
+  "datasets": [
+    {
+      "ref": "blastchar/telco-customer-churn",
+      "size_mb": 0.93,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 165.5
+}
