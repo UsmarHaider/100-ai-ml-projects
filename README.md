@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-16%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-6-blue) ![NLP](https://img.shields.io/badge/NLP-5-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-5-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-17%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-6-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-5-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -24,7 +24,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Face Mask Detection](projects/013-face-mask-detection) | [Nagesh Singh Chauhan](https://www.kaggle.com/code/nageshsingh/mask-and-social-distancing-detection-using-vgg19) | 1,117 | ✅ |
 | [Facial Emotion Recognition](projects/016-facial-emotion-recognition) | [Enes Ozturk](https://www.kaggle.com/code/enesztrk/facial-emotion-recognition-vgg19-fer2013) | 1,118 | 🔗 |
 
-## 📝 Natural Language Processing (5 published)
+## 📝 Natural Language Processing (6 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -35,6 +35,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Spam Email/SMS Detection](projects/008-spam-email-detection) | [Fares Sayah](https://www.kaggle.com/code/faressayah/natural-language-processing-nlp-for-beginners) | 1,419 | ✅ |
 | [Fake News Detection](projects/011-fake-news-detection) | [Awsaf](https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train) | 1,501 | ✅ |
 | [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
+| [News Article Category Classification](projects/017-news-category-classification) | [heng](https://www.kaggle.com/code/hengzheng/news-category-classifier-val-acc-0-65) | 647 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (5 published)
 
