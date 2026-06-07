@@ -1,0 +1,27 @@
+{
+  "topic_id": "019",
+  "title": "Brain Tumor MRI Classification",
+  "domain": "CV",
+  "kernel_ref": "ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16",
+  "kernel_url": "https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16",
+  "kernel_title": "Brain Tumor Detection v1.0 || CNN, VGG-16 ",
+  "author": "Ruslan Klymentiev",
+  "votes": "4334",
+  "datasets": [
+    {
+      "ref": "navoneel/brain-mri-images-for-brain-tumor-detection",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection"
+    },
+    {
+      "ref": "gaborfodor/keras-pretrained-models",
+      "size_mb": 1019.22,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 25.0
+}

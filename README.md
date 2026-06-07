@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-18%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-6-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-6-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-19%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-7-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-6-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (6 published)
+## 🖼 Computer Vision (7 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -23,6 +23,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Cats vs Dogs Image Classification](projects/010-cats-vs-dogs-classification) | [Uysim](https://www.kaggle.com/code/uysimty/keras-cnn-dog-or-cat-classification) | 4,696 | 🔗 |
 | [Face Mask Detection](projects/013-face-mask-detection) | [Nagesh Singh Chauhan](https://www.kaggle.com/code/nageshsingh/mask-and-social-distancing-detection-using-vgg19) | 1,117 | ✅ |
 | [Facial Emotion Recognition](projects/016-facial-emotion-recognition) | [Enes Ozturk](https://www.kaggle.com/code/enesztrk/facial-emotion-recognition-vgg19-fer2013) | 1,118 | 🔗 |
+| [Brain Tumor MRI Classification](projects/019-brain-tumor-mri-classification) | [Ruslan Klymentiev](https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16) | 4,334 | 🔗 |
 
 ## 📝 Natural Language Processing (6 published)
 
