@@ -1,0 +1,21 @@
+{
+  "topic_id": "016",
+  "title": "Facial Emotion Recognition",
+  "domain": "CV",
+  "kernel_ref": "enesztrk/facial-emotion-recognition-vgg19-fer2013",
+  "kernel_url": "https://www.kaggle.com/code/enesztrk/facial-emotion-recognition-vgg19-fer2013",
+  "kernel_title": "Facial Emotion Recognition | VGG19 - FER2013",
+  "author": "Enes Ozturk",
+  "votes": "1118",
+  "datasets": [
+    {
+      "ref": "ashishpatel26/facial-expression-recognitionferchallenge",
+      "size_mb": 287.13,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/ashishpatel26/facial-expression-recognitionferchallenge"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 26.5
+}
