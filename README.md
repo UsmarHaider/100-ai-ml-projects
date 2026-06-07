@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-17%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-6-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-5-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-18%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-6-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-6-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -37,7 +37,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
 | [News Article Category Classification](projects/017-news-category-classification) | [heng](https://www.kaggle.com/code/hengzheng/news-category-classifier-val-acc-0-65) | 647 | 🔗 |
 
-## 📊 Machine Learning & Data Science (5 published)
+## 📊 Machine Learning & Data Science (6 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -48,6 +48,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Credit Card Fraud Detection](projects/009-credit-card-fraud-detection) | [Janio Martinez Bachmann](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) | 15,064 | 🔗 |
 | [Customer Churn Prediction](projects/012-customer-churn-prediction) | [BHARTI PRASAD](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction) | 3,209 | ✅ |
 | [Heart Disease Prediction](projects/015-heart-disease-prediction) | [A Legacy Grandmaster!](https://www.kaggle.com/code/desalegngeb/heart-disease-predictions) | 4,093 | ✅ |
+| [Diabetes Prediction](projects/018-diabetes-prediction) | [Vincent Lugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) | 2,274 | ✅ |
 
 ## Getting started
 

@@ -1,0 +1,21 @@
+{
+  "topic_id": "018",
+  "title": "Diabetes Prediction",
+  "domain": "ML",
+  "kernel_ref": "vincentlugat/pima-indians-diabetes-eda-prediction-0-906",
+  "kernel_url": "https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906",
+  "kernel_title": "Pima Indians Diabetes - EDA & Prediction (0.906)",
+  "author": "Vincent Lugat",
+  "votes": "2274",
+  "datasets": [
+    {
+      "ref": "uciml/pima-indians-diabetes-database",
+      "size_mb": 0.02,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 67.0
+}
