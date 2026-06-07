@@ -1,0 +1,26 @@
+{
+  "topic_id": "020",
+  "title": "Disaster Tweets Classification",
+  "domain": "NLP",
+  "kernel_ref": "philculliton/nlp-getting-started-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial",
+  "kernel_title": "NLP Getting Started Tutorial",
+  "author": "Phil Culliton",
+  "votes": "5023",
+  "datasets": [
+    {
+      "ref": "",
+      "size_mb": null,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "nlp-getting-started",
+      "url": "https://www.kaggle.com/competitions/nlp-getting-started"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 6.6
+}

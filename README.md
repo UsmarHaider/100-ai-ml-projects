@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-19%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-7-blue) ![NLP](https://img.shields.io/badge/NLP-6-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-6-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-20%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-7-blue) ![NLP](https://img.shields.io/badge/NLP-7-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-6-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -25,7 +25,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Facial Emotion Recognition](projects/016-facial-emotion-recognition) | [Enes Ozturk](https://www.kaggle.com/code/enesztrk/facial-emotion-recognition-vgg19-fer2013) | 1,118 | 🔗 |
 | [Brain Tumor MRI Classification](projects/019-brain-tumor-mri-classification) | [Ruslan Klymentiev](https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16) | 4,334 | 🔗 |
 
-## 📝 Natural Language Processing (6 published)
+## 📝 Natural Language Processing (7 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -37,6 +37,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Fake News Detection](projects/011-fake-news-detection) | [Awsaf](https://www.kaggle.com/code/awsaf49/detect-fake-text-kerasnlp-tf-torch-jax-train) | 1,501 | ✅ |
 | [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
 | [News Article Category Classification](projects/017-news-category-classification) | [heng](https://www.kaggle.com/code/hengzheng/news-category-classifier-val-acc-0-65) | 647 | 🔗 |
+| [Disaster Tweets Classification](projects/020-disaster-tweets-classification) | [Phil Culliton](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial) | 5,023 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (6 published)
 
