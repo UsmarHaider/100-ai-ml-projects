@@ -1,0 +1,21 @@
+{
+  "topic_id": "021",
+  "title": "Breast Cancer Classification",
+  "domain": "ML",
+  "kernel_ref": "buddhiniw/breast-cancer-prediction",
+  "kernel_url": "https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction",
+  "kernel_title": "Breast cancer prediction",
+  "author": "Buddhini W",
+  "votes": "2272",
+  "datasets": [
+    {
+      "ref": "uciml/breast-cancer-wisconsin-data",
+      "size_mb": 0.12,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 14.5
+}
