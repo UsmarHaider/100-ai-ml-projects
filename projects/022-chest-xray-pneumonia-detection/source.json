@@ -1,0 +1,21 @@
+{
+  "topic_id": "022",
+  "title": "Chest X-Ray Pneumonia Detection",
+  "domain": "CV",
+  "kernel_ref": "madz2000/pneumonia-detection-using-cnn-92-6-accuracy",
+  "kernel_url": "https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy",
+  "kernel_title": "Pneumonia Detection using CNN(92.6% Accuracy)",
+  "author": "Madhav Mathur",
+  "votes": "5633",
+  "datasets": [
+    {
+      "ref": "paultimothymooney/chest-xray-pneumonia",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 333.2
+}
