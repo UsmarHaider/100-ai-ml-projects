@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-22%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-8-blue) ![NLP](https://img.shields.io/badge/NLP-7-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-7-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-23%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-8-blue) ![NLP](https://img.shields.io/badge/NLP-8-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-7-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -26,7 +26,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Brain Tumor MRI Classification](projects/019-brain-tumor-mri-classification) | [Ruslan Klymentiev](https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16) | 4,334 | 🔗 |
 | [Chest X-Ray Pneumonia Detection](projects/022-chest-xray-pneumonia-detection) | [Madhav Mathur](https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy) | 5,633 | 🔗 |
 
-## 📝 Natural Language Processing (7 published)
+## 📝 Natural Language Processing (8 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -39,6 +39,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Toxic Comment Classification](projects/014-toxic-comment-classification) | [Jeremy Howard](https://www.kaggle.com/code/jhoward/nb-svm-strong-linear-baseline) | 3,108 | 🔗 |
 | [News Article Category Classification](projects/017-news-category-classification) | [heng](https://www.kaggle.com/code/hengzheng/news-category-classifier-val-acc-0-65) | 647 | 🔗 |
 | [Disaster Tweets Classification](projects/020-disaster-tweets-classification) | [Phil Culliton](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial) | 5,023 | 🔗 |
+| [Text Summarization](projects/023-text-summarization) | [Zifeng Jiang (Andy)](https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart) | 46 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (7 published)
 

@@ -1,0 +1,21 @@
+{
+  "topic_id": "023",
+  "title": "Text Summarization",
+  "domain": "NLP",
+  "kernel_ref": "zifengjiang/news-summarization-t5-pegasus-and-bart",
+  "kernel_url": "https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart",
+  "kernel_title": "News Summarization - T5, PEGASUS and BART",
+  "author": "Zifeng Jiang (Andy)",
+  "votes": "46",
+  "datasets": [
+    {
+      "ref": "sunnysai12345/news-summary",
+      "size_mb": 50.83,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/sunnysai12345/news-summary"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 19.6
+}
