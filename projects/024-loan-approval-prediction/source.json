@@ -1,0 +1,51 @@
+{
+  "topic_id": "024",
+  "title": "Loan Approval Prediction",
+  "domain": "ML",
+  "kernel_ref": "faressayah/lending-club-loan-defaulters-prediction",
+  "kernel_url": "https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction",
+  "kernel_title": "\ud83c\udfe6 Lending Club Loan \ud83d\udcb0 Defaulters \ud83c\udfc3\u200d\u2642 Prediction",
+  "author": "Fares Sayah",
+  "votes": "1782",
+  "datasets": [
+    {
+      "ref": "wordsforthewise/lending-club",
+      "size_mb": 3915.28,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/wordsforthewise/lending-club"
+    },
+    {
+      "ref": "ethon0426/lending-club-20072020q1",
+      "size_mb": 1691.33,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1"
+    },
+    {
+      "ref": "jeandedieunyandwi/lending-club-dataset",
+      "size_mb": 95.7,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset"
+    },
+    {
+      "ref": "janiobachmann/lending-club-first-dataset",
+      "size_mb": 421.31,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/janiobachmann/lending-club-first-dataset"
+    },
+    {
+      "ref": "adarshsng/lending-club-loan-data-csv",
+      "size_mb": 1134.32,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv"
+    },
+    {
+      "ref": "husainsb/lendingclub-issued-loans",
+      "size_mb": 690.95,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 85.5
+}

@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-23%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-8-blue) ![NLP](https://img.shields.io/badge/NLP-8-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-7-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-24%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-8-blue) ![NLP](https://img.shields.io/badge/NLP-8-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-8-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -41,7 +41,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Disaster Tweets Classification](projects/020-disaster-tweets-classification) | [Phil Culliton](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial) | 5,023 | 🔗 |
 | [Text Summarization](projects/023-text-summarization) | [Zifeng Jiang (Andy)](https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart) | 46 | 🔗 |
 
-## 📊 Machine Learning & Data Science (7 published)
+## 📊 Machine Learning & Data Science (8 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -54,6 +54,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Heart Disease Prediction](projects/015-heart-disease-prediction) | [A Legacy Grandmaster!](https://www.kaggle.com/code/desalegngeb/heart-disease-predictions) | 4,093 | ✅ |
 | [Diabetes Prediction](projects/018-diabetes-prediction) | [Vincent Lugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) | 2,274 | ✅ |
 | [Breast Cancer Classification](projects/021-breast-cancer-classification) | [Buddhini W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction) | 2,272 | ✅ |
+| [Loan Approval Prediction](projects/024-loan-approval-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction) | 1,782 | 🔗 |
 
 ## Getting started
 
