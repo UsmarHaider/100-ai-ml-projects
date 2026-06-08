@@ -1,0 +1,21 @@
+{
+  "topic_id": "025",
+  "title": "Skin Cancer Lesion Classification",
+  "domain": "CV",
+  "kernel_ref": "sid321axn/step-wise-approach-cnn-model-77-0344-accuracy",
+  "kernel_url": "https://www.kaggle.com/code/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy",
+  "kernel_title": "Step wise Approach : CNN Model (77.0344% Accuracy)",
+  "author": "Manu Siddhartha",
+  "votes": "1570",
+  "datasets": [
+    {
+      "ref": "kmader/skin-cancer-mnist-ham10000",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 32.6
+}
