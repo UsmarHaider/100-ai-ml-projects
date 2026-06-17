@@ -1,0 +1,55 @@
+{
+  "topic_id": "026",
+  "title": "Named Entity Recognition",
+  "domain": "NLP",
+  "kernel_ref": "eneszvo/ner-named-entity-recognition-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial",
+  "kernel_title": "NER - Named Entity Recognition Tutorial",
+  "author": "Enes Zvorni\u010danin",
+  "votes": "220",
+  "datasets": [
+    {
+      "ref": "",
+      "size_mb": null,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/"
+    },
+    {
+      "ref": "",
+      "size_mb": null,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/"
+    },
+    {
+      "ref": "abhinavwalia95/entity-annotated-corpus",
+      "size_mb": 164.26,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus"
+    },
+    {
+      "ref": "allen-institute-for-ai/CORD-19-research-challenge",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge"
+    },
+    {
+      "ref": "dhruvildave/wikibooks-dataset",
+      "size_mb": 11701.34,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/dhruvildave/wikibooks-dataset"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "jigsaw-multilingual-toxic-comment-classification",
+      "url": "https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification"
+    },
+    {
+      "ref": "nlp-getting-started",
+      "url": "https://www.kaggle.com/competitions/nlp-getting-started"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 24.6,
+  "pinned_manually": true
+}
