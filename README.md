@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-28%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-10-blue) ![NLP](https://img.shields.io/badge/NLP-9-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-9-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-29%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-10-blue) ![NLP](https://img.shields.io/badge/NLP-10-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-9-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -28,7 +28,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Skin Cancer Lesion Classification](projects/025-skin-cancer-classification) | [Manu Siddhartha](https://www.kaggle.com/code/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy) | 1,570 | 🔗 |
 | [Diabetic Retinopathy Detection](projects/028-diabetic-retinopathy-detection) | [Neuron Engineer](https://www.kaggle.com/code/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy) | 2,328 | 🔗 |
 
-## 📝 Natural Language Processing (9 published)
+## 📝 Natural Language Processing (10 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -43,6 +43,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Disaster Tweets Classification](projects/020-disaster-tweets-classification) | [Phil Culliton](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial) | 5,023 | 🔗 |
 | [Text Summarization](projects/023-text-summarization) | [Zifeng Jiang (Andy)](https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart) | 46 | 🔗 |
 | [Named Entity Recognition](projects/026-named-entity-recognition) | [Enes Zvorničanin](https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial) | 220 | 🔗 |
+| [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (9 published)
 
