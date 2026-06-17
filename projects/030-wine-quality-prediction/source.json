@@ -1,0 +1,21 @@
+{
+  "topic_id": "030",
+  "title": "Wine Quality Prediction",
+  "domain": "ML",
+  "kernel_ref": "vishalyo990/prediction-of-quality-of-wine",
+  "kernel_url": "https://www.kaggle.com/code/vishalyo990/prediction-of-quality-of-wine",
+  "kernel_title": "Prediction of quality of Wine",
+  "author": "Vishal Kumar",
+  "votes": "2624",
+  "datasets": [
+    {
+      "ref": "uciml/red-wine-quality-cortez-et-al-2009",
+      "size_mb": 0.1,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 15.1
+}

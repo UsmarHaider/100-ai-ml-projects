@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-29%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-10-blue) ![NLP](https://img.shields.io/badge/NLP-10-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-9-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-30%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-10-blue) ![NLP](https://img.shields.io/badge/NLP-10-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-10-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -45,7 +45,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Named Entity Recognition](projects/026-named-entity-recognition) | [Enes Zvorničanin](https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial) | 220 | 🔗 |
 | [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
 
-## 📊 Machine Learning & Data Science (9 published)
+## 📊 Machine Learning & Data Science (10 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -60,6 +60,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Breast Cancer Classification](projects/021-breast-cancer-classification) | [Buddhini W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction) | 2,272 | ✅ |
 | [Loan Approval Prediction](projects/024-loan-approval-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction) | 1,782 | 🔗 |
 | [Customer Segmentation with K-Means](projects/027-customer-segmentation-kmeans) | [Karnika Kapoor](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering) | 7,124 | ✅ |
+| [Wine Quality Prediction](projects/030-wine-quality-prediction) | [Vishal Kumar](https://www.kaggle.com/code/vishalyo990/prediction-of-quality-of-wine) | 2,624 | ✅ |
 
 ## Getting started
 
