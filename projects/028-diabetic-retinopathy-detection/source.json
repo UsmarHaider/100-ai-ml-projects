@@ -1,0 +1,32 @@
+{
+  "topic_id": "028",
+  "title": "Diabetic Retinopathy Detection",
+  "domain": "CV",
+  "kernel_ref": "ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy",
+  "kernel_url": "https://www.kaggle.com/code/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy",
+  "kernel_title": "APTOS : Eye Preprocessing in Diabetic Retinopathy",
+  "author": "Neuron Engineer",
+  "votes": "2328",
+  "datasets": [
+    {
+      "ref": "tanlikesmath/diabetic-retinopathy-resized",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized"
+    },
+    {
+      "ref": "donkeys/retinopathy-train-2015",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/donkeys/retinopathy-train-2015"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "aptos2019-blindness-detection",
+      "url": "https://www.kaggle.com/competitions/aptos2019-blindness-detection"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 31.1
+}
