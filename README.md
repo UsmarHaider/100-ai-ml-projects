@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-26%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-9-blue) ![NLP](https://img.shields.io/badge/NLP-9-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-8-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-27%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-9-blue) ![NLP](https://img.shields.io/badge/NLP-9-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-9-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -43,7 +43,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Text Summarization](projects/023-text-summarization) | [Zifeng Jiang (Andy)](https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart) | 46 | 🔗 |
 | [Named Entity Recognition](projects/026-named-entity-recognition) | [Enes Zvorničanin](https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial) | 220 | 🔗 |
 
-## 📊 Machine Learning & Data Science (8 published)
+## 📊 Machine Learning & Data Science (9 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -57,6 +57,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Diabetes Prediction](projects/018-diabetes-prediction) | [Vincent Lugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906) | 2,274 | ✅ |
 | [Breast Cancer Classification](projects/021-breast-cancer-classification) | [Buddhini W](https://www.kaggle.com/code/buddhiniw/breast-cancer-prediction) | 2,272 | ✅ |
 | [Loan Approval Prediction](projects/024-loan-approval-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction) | 1,782 | 🔗 |
+| [Customer Segmentation with K-Means](projects/027-customer-segmentation-kmeans) | [Karnika Kapoor](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering) | 7,124 | ✅ |
 
 ## Getting started
 

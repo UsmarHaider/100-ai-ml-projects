@@ -1,0 +1,21 @@
+{
+  "topic_id": "027",
+  "title": "Customer Segmentation with K-Means",
+  "domain": "ML",
+  "kernel_ref": "karnikakapoor/customer-segmentation-clustering",
+  "kernel_url": "https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering",
+  "kernel_title": "Customer Segmentation: Clustering \ud83d\udecd\ufe0f\ud83d\uded2\ud83d\uded2",
+  "author": "Karnika Kapoor",
+  "votes": "7124",
+  "datasets": [
+    {
+      "ref": "imakash3011/customer-personality-analysis",
+      "size_mb": 0.21,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 33.0
+}
