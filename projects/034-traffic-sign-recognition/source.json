@@ -1,0 +1,21 @@
+{
+  "topic_id": "034",
+  "title": "Traffic Sign Recognition (GTSRB)",
+  "domain": "CV",
+  "kernel_ref": "raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy",
+  "kernel_url": "https://www.kaggle.com/code/raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy",
+  "kernel_title": "Traffic Sign Detection using CNNs 99% Accuracy",
+  "author": "Raghav Sharma",
+  "votes": "193",
+  "datasets": [
+    {
+      "ref": "meowmeowmeowmeowmeow/gtsrb-german-traffic-sign",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 43.9
+}

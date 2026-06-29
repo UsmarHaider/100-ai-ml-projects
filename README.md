@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-33%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-11-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-34%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-12-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (11 published)
+## 🖼 Computer Vision (12 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -28,6 +28,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Skin Cancer Lesion Classification](projects/025-skin-cancer-classification) | [Manu Siddhartha](https://www.kaggle.com/code/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy) | 1,570 | 🔗 |
 | [Diabetic Retinopathy Detection](projects/028-diabetic-retinopathy-detection) | [Neuron Engineer](https://www.kaggle.com/code/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy) | 2,328 | 🔗 |
 | [Flower Species Image Classification](projects/031-flower-classification) | [Raj Mehrotra](https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras) | 3,253 | 🔗 |
+| [Traffic Sign Recognition (GTSRB)](projects/034-traffic-sign-recognition) | [Raghav Sharma](https://www.kaggle.com/code/raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy) | 193 | 🔗 |
 
 ## 📝 Natural Language Processing (11 published)
 
