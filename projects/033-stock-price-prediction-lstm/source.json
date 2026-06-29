@@ -1,0 +1,39 @@
+{
+  "topic_id": "033",
+  "title": "Stock Price Prediction with LSTM",
+  "domain": "ML",
+  "kernel_ref": "faressayah/stock-market-analysis-prediction-using-lstm",
+  "kernel_url": "https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm",
+  "kernel_title": "\ud83d\udccaStock Market Analysis \ud83d\udcc8 + Prediction using LSTM",
+  "author": "Fares Sayah",
+  "votes": "13132",
+  "datasets": [
+    {
+      "ref": "hershyandrew/amzn-dpz-btc-ntfx-adjusted-may-2013may2019",
+      "size_mb": 0.08,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/hershyandrew/amzn-dpz-btc-ntfx-adjusted-may-2013may2019"
+    },
+    {
+      "ref": "tarunpaparaju/apple-aapl-historical-stock-data",
+      "size_mb": 0.14,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data"
+    },
+    {
+      "ref": "camnugent/sandp500",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/camnugent/sandp500"
+    },
+    {
+      "ref": "rpaguirre/tesla-stock-price",
+      "size_mb": 0.1,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 101.8
+}

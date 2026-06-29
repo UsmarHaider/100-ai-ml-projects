@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-32%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-11-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-10-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-33%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-11-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -47,7 +47,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
 | [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
 
-## 📊 Machine Learning & Data Science (10 published)
+## 📊 Machine Learning & Data Science (11 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -63,6 +63,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Loan Approval Prediction](projects/024-loan-approval-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction) | 1,782 | 🔗 |
 | [Customer Segmentation with K-Means](projects/027-customer-segmentation-kmeans) | [Karnika Kapoor](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering) | 7,124 | ✅ |
 | [Wine Quality Prediction](projects/030-wine-quality-prediction) | [Vishal Kumar](https://www.kaggle.com/code/vishalyo990/prediction-of-quality-of-wine) | 2,624 | ✅ |
+| [Stock Price Prediction with LSTM](projects/033-stock-price-prediction-lstm) | [Fares Sayah](https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm) | 13,132 | ✅ |
 
 ## Getting started
 
