@@ -1,0 +1,21 @@
+{
+  "topic_id": "031",
+  "title": "Flower Species Image Classification",
+  "domain": "CV",
+  "kernel_ref": "rajmehra03/flower-recognition-cnn-keras",
+  "kernel_url": "https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras",
+  "kernel_title": "Flower Recognition CNN Keras",
+  "author": "Raj Mehrotra",
+  "votes": "3253",
+  "datasets": [
+    {
+      "ref": "alxmamaev/flowers-recognition",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/alxmamaev/flowers-recognition"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 18.5
+}
