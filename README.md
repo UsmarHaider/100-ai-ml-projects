@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-31%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-11-blue) ![NLP](https://img.shields.io/badge/NLP-10-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-10-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-32%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-11-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-10-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -29,7 +29,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Diabetic Retinopathy Detection](projects/028-diabetic-retinopathy-detection) | [Neuron Engineer](https://www.kaggle.com/code/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy) | 2,328 | 🔗 |
 | [Flower Species Image Classification](projects/031-flower-classification) | [Raj Mehrotra](https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras) | 3,253 | 🔗 |
 
-## 📝 Natural Language Processing (10 published)
+## 📝 Natural Language Processing (11 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -45,6 +45,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Text Summarization](projects/023-text-summarization) | [Zifeng Jiang (Andy)](https://www.kaggle.com/code/zifengjiang/news-summarization-t5-pegasus-and-bart) | 46 | 🔗 |
 | [Named Entity Recognition](projects/026-named-entity-recognition) | [Enes Zvorničanin](https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial) | 220 | 🔗 |
 | [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
+| [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (10 published)
 

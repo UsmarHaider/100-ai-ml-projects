@@ -1,0 +1,21 @@
+{
+  "topic_id": "032",
+  "title": "Machine Translation with Seq2Seq",
+  "domain": "NLP",
+  "kernel_ref": "harshjain123/machine-translation-seq2seq-lstms",
+  "kernel_url": "https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms",
+  "kernel_title": "Machine Translation | Seq2Seq | LSTMs",
+  "author": "Harsh Jain",
+  "votes": "671",
+  "datasets": [
+    {
+      "ref": "alincijov/bilingual-sentence-pairs",
+      "size_mb": 449.18,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/alincijov/bilingual-sentence-pairs"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 18.0
+}
