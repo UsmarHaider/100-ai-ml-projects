@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-34%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-12-blue) ![NLP](https://img.shields.io/badge/NLP-11-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-35%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-12-blue) ![NLP](https://img.shields.io/badge/NLP-12-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -30,7 +30,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Flower Species Image Classification](projects/031-flower-classification) | [Raj Mehrotra](https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras) | 3,253 | 🔗 |
 | [Traffic Sign Recognition (GTSRB)](projects/034-traffic-sign-recognition) | [Raghav Sharma](https://www.kaggle.com/code/raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy) | 193 | 🔗 |
 
-## 📝 Natural Language Processing (11 published)
+## 📝 Natural Language Processing (12 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -47,6 +47,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Named Entity Recognition](projects/026-named-entity-recognition) | [Enes Zvorničanin](https://www.kaggle.com/code/eneszvo/ner-named-entity-recognition-tutorial) | 220 | 🔗 |
 | [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
 | [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
+| [Text Generation with LSTM](projects/035-text-generation-lstm) | [Siddharth Yadav](https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru) | 3,109 | ✅ |
 
 ## 📊 Machine Learning & Data Science (11 published)
 

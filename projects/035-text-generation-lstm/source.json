@@ -1,0 +1,21 @@
+{
+  "topic_id": "035",
+  "title": "Text Generation with LSTM",
+  "domain": "NLP",
+  "kernel_ref": "thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru",
+  "kernel_url": "https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru",
+  "kernel_title": "Intro to Recurrent Neural Networks LSTM | GRU",
+  "author": "Siddharth Yadav",
+  "votes": "3109",
+  "datasets": [
+    {
+      "ref": "szrlee/stock-time-series-20050101-to-20171231",
+      "size_mb": 9.09,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 21.3
+}
