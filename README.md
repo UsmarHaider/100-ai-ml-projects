@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-39%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-13-blue) ![NLP](https://img.shields.io/badge/NLP-13-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-13-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-40%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-14-blue) ![NLP](https://img.shields.io/badge/NLP-13-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-13-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (13 published)
+## 🖼 Computer Vision (14 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -30,6 +30,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Flower Species Image Classification](projects/031-flower-classification) | [Raj Mehrotra](https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras) | 3,253 | 🔗 |
 | [Traffic Sign Recognition (GTSRB)](projects/034-traffic-sign-recognition) | [Raghav Sharma](https://www.kaggle.com/code/raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy) | 193 | 🔗 |
 | [American Sign Language Recognition](projects/037-american-sign-language-recognition) | [sayak](https://www.kaggle.com/code/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy) | 900 | 🔗 |
+| [Plant Leaf Disease Detection](projects/040-plant-disease-detection) | [Tarun Paparaju](https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models) | 2,207 | 🔗 |
 
 ## 📝 Natural Language Processing (13 published)
 

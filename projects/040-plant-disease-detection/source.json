@@ -1,0 +1,19 @@
+{
+  "topic_id": "040",
+  "title": "Plant Leaf Disease Detection",
+  "domain": "CV",
+  "kernel_ref": "tarunpaparaju/plant-pathology-2020-eda-models",
+  "kernel_url": "https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models",
+  "kernel_title": "Plant Pathology 2020 : EDA + Models \ud83c\udf3f",
+  "author": "Tarun Paparaju",
+  "votes": "2207",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "plant-pathology-2020-fgvc7",
+      "url": "https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 75.2
+}
