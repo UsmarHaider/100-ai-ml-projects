@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-37%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-13-blue) ![NLP](https://img.shields.io/badge/NLP-12-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-12-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-38%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-13-blue) ![NLP](https://img.shields.io/badge/NLP-13-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-12-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -31,7 +31,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Traffic Sign Recognition (GTSRB)](projects/034-traffic-sign-recognition) | [Raghav Sharma](https://www.kaggle.com/code/raghav2002sharma/traffic-sign-detection-using-cnns-99-accuracy) | 193 | 🔗 |
 | [American Sign Language Recognition](projects/037-american-sign-language-recognition) | [sayak](https://www.kaggle.com/code/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy) | 900 | 🔗 |
 
-## 📝 Natural Language Processing (12 published)
+## 📝 Natural Language Processing (13 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -49,6 +49,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Question Answering with BERT](projects/029-question-answering-bert) | [arunmohan_003](https://www.kaggle.com/code/arunmohan003/question-answering-using-bert) | 330 | 🔗 |
 | [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
 | [Text Generation with LSTM](projects/035-text-generation-lstm) | [Siddharth Yadav](https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru) | 3,109 | ✅ |
+| [Topic Modeling with LDA](projects/038-topic-modeling-lda) | [Renato Aranha](https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets) | 338 | ✅ |
 
 ## 📊 Machine Learning & Data Science (12 published)
 

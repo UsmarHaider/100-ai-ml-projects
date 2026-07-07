@@ -1,0 +1,21 @@
+{
+  "topic_id": "038",
+  "title": "Topic Modeling with LDA",
+  "domain": "NLP",
+  "kernel_ref": "errearanhas/topic-modelling-lda-on-elon-tweets",
+  "kernel_url": "https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets",
+  "kernel_title": "Topic Modelling (LDA) on Elon Tweets",
+  "author": "Renato Aranha",
+  "votes": "338",
+  "datasets": [
+    {
+      "ref": "kulgen/elon-musks-tweets",
+      "size_mb": 0.43,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/kulgen/elon-musks-tweets"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 10.3
+}
