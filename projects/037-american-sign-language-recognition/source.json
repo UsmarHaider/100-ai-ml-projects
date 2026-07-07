@@ -1,0 +1,21 @@
+{
+  "topic_id": "037",
+  "title": "American Sign Language Recognition",
+  "domain": "CV",
+  "kernel_ref": "sayakdasgupta/sign-language-classification-cnn-99-40-accuracy",
+  "kernel_url": "https://www.kaggle.com/code/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy",
+  "kernel_title": "Sign-Language Classification CNN (99.40% Accuracy)",
+  "author": "sayak",
+  "votes": "900",
+  "datasets": [
+    {
+      "ref": "datamunge/sign-language-mnist",
+      "size_mb": 201.09,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/datamunge/sign-language-mnist"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 158.3
+}
