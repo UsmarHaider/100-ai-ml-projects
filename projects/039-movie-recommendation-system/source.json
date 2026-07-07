@@ -1,0 +1,21 @@
+{
+  "topic_id": "039",
+  "title": "Movie Recommendation System",
+  "domain": "ML",
+  "kernel_ref": "laowingkin/netflix-movie-recommendation",
+  "kernel_url": "https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation",
+  "kernel_title": "Netflix - Movie recommendation",
+  "author": "DLao",
+  "votes": "3420",
+  "datasets": [
+    {
+      "ref": "netflix-inc/netflix-prize-data",
+      "size_mb": 2033.0,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 20.2
+}
