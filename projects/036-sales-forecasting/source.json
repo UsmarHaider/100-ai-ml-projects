@@ -1,0 +1,19 @@
+{
+  "topic_id": "036",
+  "title": "Sales Forecasting",
+  "domain": "ML",
+  "kernel_ref": "jagangupta/time-series-basics-exploring-traditional-ts",
+  "kernel_url": "https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts",
+  "kernel_title": "Time series Basics : Exploring traditional TS ",
+  "author": "Jagan",
+  "votes": "4720",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "competitive-data-science-predict-future-sales",
+      "url": "https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 34.9
+}

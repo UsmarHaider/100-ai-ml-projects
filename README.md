@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-35%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-12-blue) ![NLP](https://img.shields.io/badge/NLP-12-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-11-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-36%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-12-blue) ![NLP](https://img.shields.io/badge/NLP-12-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-12-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -49,7 +49,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
 | [Text Generation with LSTM](projects/035-text-generation-lstm) | [Siddharth Yadav](https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru) | 3,109 | ✅ |
 
-## 📊 Machine Learning & Data Science (11 published)
+## 📊 Machine Learning & Data Science (12 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -66,6 +66,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Customer Segmentation with K-Means](projects/027-customer-segmentation-kmeans) | [Karnika Kapoor](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering) | 7,124 | ✅ |
 | [Wine Quality Prediction](projects/030-wine-quality-prediction) | [Vishal Kumar](https://www.kaggle.com/code/vishalyo990/prediction-of-quality-of-wine) | 2,624 | ✅ |
 | [Stock Price Prediction with LSTM](projects/033-stock-price-prediction-lstm) | [Fares Sayah](https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm) | 13,132 | ✅ |
+| [Sales Forecasting](projects/036-sales-forecasting) | [Jagan](https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts) | 4,720 | 🔗 |
 
 ## Getting started
 
