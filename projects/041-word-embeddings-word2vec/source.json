@@ -1,0 +1,21 @@
+{
+  "topic_id": "041",
+  "title": "Word Embeddings with Word2Vec",
+  "domain": "NLP",
+  "kernel_ref": "pierremegret/gensim-word2vec-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial",
+  "kernel_title": "Gensim Word2Vec Tutorial",
+  "author": "Pierre Megret",
+  "votes": "2206",
+  "datasets": [
+    {
+      "ref": "pierremegret/dialogue-lines-of-the-simpsons",
+      "size_mb": 8.94,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/pierremegret/dialogue-lines-of-the-simpsons"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 34.2
+}

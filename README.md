@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-40%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-14-blue) ![NLP](https://img.shields.io/badge/NLP-13-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-13-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-41%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-14-blue) ![NLP](https://img.shields.io/badge/NLP-14-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-13-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -32,7 +32,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [American Sign Language Recognition](projects/037-american-sign-language-recognition) | [sayak](https://www.kaggle.com/code/sayakdasgupta/sign-language-classification-cnn-99-40-accuracy) | 900 | 🔗 |
 | [Plant Leaf Disease Detection](projects/040-plant-disease-detection) | [Tarun Paparaju](https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models) | 2,207 | 🔗 |
 
-## 📝 Natural Language Processing (13 published)
+## 📝 Natural Language Processing (14 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -51,6 +51,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Machine Translation with Seq2Seq](projects/032-machine-translation-seq2seq) | [Harsh Jain](https://www.kaggle.com/code/harshjain123/machine-translation-seq2seq-lstms) | 671 | 🔗 |
 | [Text Generation with LSTM](projects/035-text-generation-lstm) | [Siddharth Yadav](https://www.kaggle.com/code/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru) | 3,109 | ✅ |
 | [Topic Modeling with LDA](projects/038-topic-modeling-lda) | [Renato Aranha](https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets) | 338 | ✅ |
+| [Word Embeddings with Word2Vec](projects/041-word-embeddings-word2vec) | [Pierre Megret](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) | 2,206 | ✅ |
 
 ## 📊 Machine Learning & Data Science (13 published)
 
