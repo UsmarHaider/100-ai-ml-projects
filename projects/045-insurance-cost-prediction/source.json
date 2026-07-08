@@ -1,0 +1,21 @@
+{
+  "topic_id": "045",
+  "title": "Medical Insurance Cost Prediction",
+  "domain": "ML",
+  "kernel_ref": "sudhirnl7/linear-regression-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial",
+  "kernel_title": "Linear Regression Tutorial",
+  "author": "Sudhir Kumar",
+  "votes": "2932",
+  "datasets": [
+    {
+      "ref": "mirichoi0218/insurance",
+      "size_mb": 0.05,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/mirichoi0218/insurance"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 26.2
+}
