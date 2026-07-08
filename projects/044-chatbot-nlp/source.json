@@ -1,0 +1,21 @@
+{
+  "topic_id": "044",
+  "title": "Chatbot with NLP",
+  "domain": "NLP",
+  "kernel_ref": "jocelyndumlao/chatbot-for-mental-health-conversations",
+  "kernel_url": "https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations",
+  "kernel_title": "Chatbot for Mental Health Conversations",
+  "author": "Jocelyn Dumlao",
+  "votes": "1835",
+  "datasets": [
+    {
+      "ref": "elvis23/mental-health-conversational-data",
+      "size_mb": 0.04,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 23.1
+}
