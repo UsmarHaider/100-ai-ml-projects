@@ -1,0 +1,21 @@
+{
+  "topic_id": "043",
+  "title": "Malaria Cell Image Detection",
+  "domain": "CV",
+  "kernel_ref": "anjanatiha/malaria-detection-using-keras-accuracy-95",
+  "kernel_url": "https://www.kaggle.com/code/anjanatiha/malaria-detection-using-keras-accuracy-95",
+  "kernel_title": "Malaria Detection using Keras (Accuracy 95%)",
+  "author": "Anjana Tiha",
+  "votes": "121",
+  "datasets": [
+    {
+      "ref": "iarunava/cell-images-for-detecting-malaria",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 22.5
+}
