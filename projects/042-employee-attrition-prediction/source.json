@@ -1,0 +1,21 @@
+{
+  "topic_id": "042",
+  "title": "Employee Attrition Prediction",
+  "domain": "ML",
+  "kernel_ref": "faressayah/ibm-hr-analytics-employee-attrition-performance",
+  "kernel_url": "https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance",
+  "kernel_title": "IBM HR Analytics\ud83d\udcbcEmployee Attrition & Performance",
+  "author": "Fares Sayah",
+  "votes": "1759",
+  "datasets": [
+    {
+      "ref": "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+      "size_mb": 0.22,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 27.2
+}

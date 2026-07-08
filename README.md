@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-41%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-14-blue) ![NLP](https://img.shields.io/badge/NLP-14-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-13-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-42%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-14-blue) ![NLP](https://img.shields.io/badge/NLP-14-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-14-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -53,7 +53,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Topic Modeling with LDA](projects/038-topic-modeling-lda) | [Renato Aranha](https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets) | 338 | ✅ |
 | [Word Embeddings with Word2Vec](projects/041-word-embeddings-word2vec) | [Pierre Megret](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) | 2,206 | ✅ |
 
-## 📊 Machine Learning & Data Science (13 published)
+## 📊 Machine Learning & Data Science (14 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -72,6 +72,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Stock Price Prediction with LSTM](projects/033-stock-price-prediction-lstm) | [Fares Sayah](https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm) | 13,132 | ✅ |
 | [Sales Forecasting](projects/036-sales-forecasting) | [Jagan](https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts) | 4,720 | 🔗 |
 | [Movie Recommendation System](projects/039-movie-recommendation-system) | [DLao](https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation) | 3,420 | 🔗 |
+| [Employee Attrition Prediction](projects/042-employee-attrition-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance) | 1,759 | ✅ |
 
 ## Getting started
 
