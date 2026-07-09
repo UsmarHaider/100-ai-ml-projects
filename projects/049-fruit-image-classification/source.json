@@ -1,0 +1,21 @@
+{
+  "topic_id": "049",
+  "title": "Fruit Image Classification",
+  "domain": "CV",
+  "kernel_ref": "waltermaffy/fruit-classification-pca-svm-knn-decision-tree",
+  "kernel_url": "https://www.kaggle.com/code/waltermaffy/fruit-classification-pca-svm-knn-decision-tree",
+  "kernel_title": "Fruit Classification: PCA, SVM, KNN, Decision Tree",
+  "author": "Walter Maffione",
+  "votes": "1198",
+  "datasets": [
+    {
+      "ref": "moltean/fruits",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/moltean/fruits"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 34.9
+}
