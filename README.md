@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-47%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-16-blue) ![NLP](https://img.shields.io/badge/NLP-16-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-15-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-48%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-16-blue) ![NLP](https://img.shields.io/badge/NLP-16-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-16-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -57,7 +57,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Chatbot with NLP](projects/044-chatbot-nlp) | [Jocelyn Dumlao](https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations) | 1,835 | ✅ |
 | [Resume Screening with NLP](projects/047-resume-screening-nlp) | [suditi pandey](https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp) | 55 | 🔗 |
 
-## 📊 Machine Learning & Data Science (15 published)
+## 📊 Machine Learning & Data Science (16 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -78,6 +78,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Movie Recommendation System](projects/039-movie-recommendation-system) | [DLao](https://www.kaggle.com/code/laowingkin/netflix-movie-recommendation) | 3,420 | 🔗 |
 | [Employee Attrition Prediction](projects/042-employee-attrition-prediction) | [Fares Sayah](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance) | 1,759 | ✅ |
 | [Medical Insurance Cost Prediction](projects/045-insurance-cost-prediction) | [Sudhir Kumar](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial) | 2,932 | ✅ |
+| [Used Car Price Prediction](projects/048-car-price-prediction) | [Shalini Goyal](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe) | 4,289 | ✅ |
 
 ## Getting started
 

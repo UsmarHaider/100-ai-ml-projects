@@ -1,0 +1,21 @@
+{
+  "topic_id": "048",
+  "title": "Used Car Price Prediction",
+  "domain": "ML",
+  "kernel_ref": "goyalshalini93/car-price-prediction-linear-regression-rfe",
+  "kernel_url": "https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe",
+  "kernel_title": "Car Price Prediction (Linear Regression - RFE)",
+  "author": "Shalini Goyal",
+  "votes": "4289",
+  "datasets": [
+    {
+      "ref": "goyalshalini93/car-data",
+      "size_mb": 0.04,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/goyalshalini93/car-data"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 29.9
+}
