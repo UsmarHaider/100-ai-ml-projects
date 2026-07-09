@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-46%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-16-blue) ![NLP](https://img.shields.io/badge/NLP-15-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-15-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-47%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-16-blue) ![NLP](https://img.shields.io/badge/NLP-16-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-15-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -34,7 +34,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Malaria Cell Image Detection](projects/043-malaria-cell-detection) | [Anjana Tiha](https://www.kaggle.com/code/anjanatiha/malaria-detection-using-keras-accuracy-95) | 121 | 🔗 |
 | [COVID-19 Chest X-Ray Classification](projects/046-covid19-xray-classification) | [Digvijay Yadav](https://www.kaggle.com/code/digvijayyadav/deep-learning-and-transfer-learning-on-covid-19) | 222 | 🔗 |
 
-## 📝 Natural Language Processing (15 published)
+## 📝 Natural Language Processing (16 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -55,6 +55,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Topic Modeling with LDA](projects/038-topic-modeling-lda) | [Renato Aranha](https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets) | 338 | ✅ |
 | [Word Embeddings with Word2Vec](projects/041-word-embeddings-word2vec) | [Pierre Megret](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) | 2,206 | ✅ |
 | [Chatbot with NLP](projects/044-chatbot-nlp) | [Jocelyn Dumlao](https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations) | 1,835 | ✅ |
+| [Resume Screening with NLP](projects/047-resume-screening-nlp) | [suditi pandey](https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp) | 55 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (15 published)
 

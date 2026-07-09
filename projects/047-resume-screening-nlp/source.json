@@ -1,0 +1,27 @@
+{
+  "topic_id": "047",
+  "title": "Resume Screening with NLP",
+  "domain": "NLP",
+  "kernel_ref": "suditipandey/resume-screening-using-nlp",
+  "kernel_url": "https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp",
+  "kernel_title": "Resume Screening using NLP",
+  "author": "suditi pandey",
+  "votes": "55",
+  "datasets": [
+    {
+      "ref": "pranavvenugo/resume-and-job-description",
+      "size_mb": 57.26,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/pranavvenugo/resume-and-job-description"
+    },
+    {
+      "ref": "snehaanbhawal/resume-dataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 16.9
+}
