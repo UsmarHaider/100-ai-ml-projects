@@ -1,0 +1,21 @@
+{
+  "topic_id": "046",
+  "title": "COVID-19 Chest X-Ray Classification",
+  "domain": "CV",
+  "kernel_ref": "digvijayyadav/deep-learning-and-transfer-learning-on-covid-19",
+  "kernel_url": "https://www.kaggle.com/code/digvijayyadav/deep-learning-and-transfer-learning-on-covid-19",
+  "kernel_title": "Deep Learning and Transfer Learning on COVID-19",
+  "author": "Digvijay Yadav",
+  "votes": "222",
+  "datasets": [
+    {
+      "ref": "praveengovi/coronahack-chest-xraydataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 14.3
+}
