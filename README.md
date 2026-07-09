@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-49%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-17-blue) ![NLP](https://img.shields.io/badge/NLP-16-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-16-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-50%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-17-blue) ![NLP](https://img.shields.io/badge/NLP-17-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-16-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -35,7 +35,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [COVID-19 Chest X-Ray Classification](projects/046-covid19-xray-classification) | [Digvijay Yadav](https://www.kaggle.com/code/digvijayyadav/deep-learning-and-transfer-learning-on-covid-19) | 222 | 🔗 |
 | [Fruit Image Classification](projects/049-fruit-image-classification) | [Walter Maffione](https://www.kaggle.com/code/waltermaffy/fruit-classification-pca-svm-knn-decision-tree) | 1,198 | 🔗 |
 
-## 📝 Natural Language Processing (16 published)
+## 📝 Natural Language Processing (17 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -57,6 +57,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Word Embeddings with Word2Vec](projects/041-word-embeddings-word2vec) | [Pierre Megret](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) | 2,206 | ✅ |
 | [Chatbot with NLP](projects/044-chatbot-nlp) | [Jocelyn Dumlao](https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations) | 1,835 | ✅ |
 | [Resume Screening with NLP](projects/047-resume-screening-nlp) | [suditi pandey](https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp) | 55 | 🔗 |
+| [Amazon Product Reviews Sentiment](projects/050-amazon-reviews-sentiment) | [Ben Roshan ](https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews) | 567 | ✅ |
 
 ## 📊 Machine Learning & Data Science (16 published)
 

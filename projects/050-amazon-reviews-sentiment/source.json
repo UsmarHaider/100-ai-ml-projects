@@ -1,0 +1,21 @@
+{
+  "topic_id": "050",
+  "title": "Amazon Product Reviews Sentiment",
+  "domain": "NLP",
+  "kernel_ref": "benroshan/sentiment-analysis-amazon-reviews",
+  "kernel_url": "https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews",
+  "kernel_title": "Sentiment Analysis | Amazon reviews",
+  "author": "Ben Roshan ",
+  "votes": "567",
+  "datasets": [
+    {
+      "ref": "eswarchandt/amazon-music-reviews",
+      "size_mb": 12.91,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 50.9
+}
