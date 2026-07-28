@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-53%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-18-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-17-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-54%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-18-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -61,7 +61,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Amazon Product Reviews Sentiment](projects/050-amazon-reviews-sentiment) | [Ben Roshan ](https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews) | 567 | ✅ |
 | [Quora Duplicate Question Detection](projects/053-quora-duplicate-questions) | [anokas](https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb) | 3,251 | 🔗 |
 
-## 📊 Machine Learning & Data Science (17 published)
+## 📊 Machine Learning & Data Science (18 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -84,6 +84,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Medical Insurance Cost Prediction](projects/045-insurance-cost-prediction) | [Sudhir Kumar](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial) | 2,932 | ✅ |
 | [Used Car Price Prediction](projects/048-car-price-prediction) | [Shalini Goyal](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe) | 4,289 | ✅ |
 | [Flight Ticket Price Prediction](projects/051-flight-price-prediction) | [Varun Sai Kanuri](https://www.kaggle.com/code/varunsaikanuri/flight-fare-prediction-10-ml-models) | 714 | 🔗 |
+| [Anomaly Detection](projects/054-anomaly-detection) | [Victor Ambonati](https://www.kaggle.com/code/victorambonati/unsupervised-anomaly-detection) | 1,445 | ✅ |
 
 ## Getting started
 
