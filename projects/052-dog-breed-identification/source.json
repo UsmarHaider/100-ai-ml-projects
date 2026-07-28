@@ -1,0 +1,21 @@
+{
+  "topic_id": "052",
+  "title": "Dog Breed Identification",
+  "domain": "CV",
+  "kernel_ref": "siddhantojha17/predicting-dog-species-using-resnet50",
+  "kernel_url": "https://www.kaggle.com/code/siddhantojha17/predicting-dog-species-using-resnet50",
+  "kernel_title": "\ud83d\udc36Predicting Dog Species Using Resnet50\ud83d\udc36",
+  "author": "SiddhantOjha",
+  "votes": "121",
+  "datasets": [
+    {
+      "ref": "jessicali9530/stanford-dogs-dataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 244.4
+}
