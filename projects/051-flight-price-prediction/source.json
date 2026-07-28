@@ -1,0 +1,21 @@
+{
+  "topic_id": "051",
+  "title": "Flight Ticket Price Prediction",
+  "domain": "ML",
+  "kernel_ref": "varunsaikanuri/flight-fare-prediction-10-ml-models",
+  "kernel_url": "https://www.kaggle.com/code/varunsaikanuri/flight-fare-prediction-10-ml-models",
+  "kernel_title": "Flight Fare Prediction | 10 ML Models",
+  "author": "Varun Sai Kanuri",
+  "votes": "714",
+  "datasets": [
+    {
+      "ref": "shubhambathwal/flight-price-prediction",
+      "size_mb": 53.07,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 20.8
+}
