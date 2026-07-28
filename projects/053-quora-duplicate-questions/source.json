@@ -1,0 +1,19 @@
+{
+  "topic_id": "053",
+  "title": "Quora Duplicate Question Detection",
+  "domain": "NLP",
+  "kernel_ref": "anokas/data-analysis-xgboost-starter-0-35460-lb",
+  "kernel_url": "https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb",
+  "kernel_title": "Data Analysis & XGBoost Starter (0.35460 LB)",
+  "author": "anokas",
+  "votes": "3251",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "quora-question-pairs",
+      "url": "https://www.kaggle.com/competitions/quora-question-pairs"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 22.1
+}

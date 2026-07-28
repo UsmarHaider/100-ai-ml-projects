@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-52%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-18-blue) ![NLP](https://img.shields.io/badge/NLP-17-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-17-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-53%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-18-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-17-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -36,7 +36,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Fruit Image Classification](projects/049-fruit-image-classification) | [Walter Maffione](https://www.kaggle.com/code/waltermaffy/fruit-classification-pca-svm-knn-decision-tree) | 1,198 | 🔗 |
 | [Dog Breed Identification](projects/052-dog-breed-identification) | [SiddhantOjha](https://www.kaggle.com/code/siddhantojha17/predicting-dog-species-using-resnet50) | 121 | 🔗 |
 
-## 📝 Natural Language Processing (17 published)
+## 📝 Natural Language Processing (18 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -59,6 +59,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Chatbot with NLP](projects/044-chatbot-nlp) | [Jocelyn Dumlao](https://www.kaggle.com/code/jocelyndumlao/chatbot-for-mental-health-conversations) | 1,835 | ✅ |
 | [Resume Screening with NLP](projects/047-resume-screening-nlp) | [suditi pandey](https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp) | 55 | 🔗 |
 | [Amazon Product Reviews Sentiment](projects/050-amazon-reviews-sentiment) | [Ben Roshan ](https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews) | 567 | ✅ |
+| [Quora Duplicate Question Detection](projects/053-quora-duplicate-questions) | [anokas](https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb) | 3,251 | 🔗 |
 
 ## 📊 Machine Learning & Data Science (17 published)
 
