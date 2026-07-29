@@ -1,0 +1,44 @@
+{
+  "topic_id": "055",
+  "title": "Image Segmentation with U-Net",
+  "domain": "CV",
+  "kernel_ref": "rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88",
+  "kernel_url": "https://www.kaggle.com/code/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88",
+  "kernel_title": "UNet starter kernel (Pytorch) LB>0.88",
+  "author": "Rishabh Agrahari",
+  "votes": "1935",
+  "datasets": [
+    {
+      "ref": "rishabhiitbhu/pretrainedmodels",
+      "size_mb": 0.84,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/rishabhiitbhu/pretrainedmodels"
+    },
+    {
+      "ref": "pytorch/resnet18",
+      "size_mb": 44.66,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/pytorch/resnet18"
+    },
+    {
+      "ref": "pytorch/resnet50",
+      "size_mb": 97.75,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/pytorch/resnet50"
+    },
+    {
+      "ref": "rishabhiitbhu/unetmodelscript",
+      "size_mb": 0.01,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/rishabhiitbhu/unetmodelscript"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "severstal-steel-defect-detection",
+      "url": "https://www.kaggle.com/competitions/severstal-steel-defect-detection"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 18.4
+}

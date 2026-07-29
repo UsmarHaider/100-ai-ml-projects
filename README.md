@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-54%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-18-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-55%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-19-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (18 published)
+## 🖼 Computer Vision (19 published)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -35,6 +35,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [COVID-19 Chest X-Ray Classification](projects/046-covid19-xray-classification) | [Digvijay Yadav](https://www.kaggle.com/code/digvijayyadav/deep-learning-and-transfer-learning-on-covid-19) | 222 | 🔗 |
 | [Fruit Image Classification](projects/049-fruit-image-classification) | [Walter Maffione](https://www.kaggle.com/code/waltermaffy/fruit-classification-pca-svm-knn-decision-tree) | 1,198 | 🔗 |
 | [Dog Breed Identification](projects/052-dog-breed-identification) | [SiddhantOjha](https://www.kaggle.com/code/siddhantojha17/predicting-dog-species-using-resnet50) | 121 | 🔗 |
+| [Image Segmentation with U-Net](projects/055-image-segmentation-unet) | [Rishabh Agrahari](https://www.kaggle.com/code/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88) | 1,935 | ✅ |
 
 ## 📝 Natural Language Processing (18 published)
 
