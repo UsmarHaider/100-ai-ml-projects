@@ -1,0 +1,21 @@
+{
+  "topic_id": "058",
+  "title": "Object Detection with YOLO",
+  "domain": "CV",
+  "kernel_ref": "aruchomu/yolo-v3-object-detection-in-tensorflow",
+  "kernel_url": "https://www.kaggle.com/code/aruchomu/yolo-v3-object-detection-in-tensorflow",
+  "kernel_title": "Yolo v3 Object Detection in Tensorflow",
+  "author": "heartkilla",
+  "votes": "6063",
+  "datasets": [
+    {
+      "ref": "aruchomu/data-for-yolo-v3-kernel",
+      "size_mb": 284.18,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/aruchomu/data-for-yolo-v3-kernel"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 36.2
+}
