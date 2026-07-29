@@ -1,0 +1,19 @@
+{
+  "topic_id": "057",
+  "title": "Credit Risk Modeling",
+  "domain": "ML",
+  "kernel_ref": "willkoehrsen/start-here-a-gentle-introduction",
+  "kernel_url": "https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction",
+  "kernel_title": "Start Here: A Gentle Introduction",
+  "author": "Will Koehrsen",
+  "votes": "9237",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "home-credit-default-risk",
+      "url": "https://www.kaggle.com/competitions/home-credit-default-risk"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 87.4
+}

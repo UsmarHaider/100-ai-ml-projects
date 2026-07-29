@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-56%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-19-blue) ![NLP](https://img.shields.io/badge/NLP-19-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-57%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-19-blue) ![NLP](https://img.shields.io/badge/NLP-19-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-19-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -63,7 +63,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Quora Duplicate Question Detection](projects/053-quora-duplicate-questions) | [anokas](https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb) | 3,251 | 🔗 |
 | [Language Detection](projects/056-language-detection) | [Martin kleine Kalvelage](https://www.kaggle.com/code/martinkk5575/language-detection) | 95 | ✅ |
 
-## 📊 Machine Learning & Data Science (18 published)
+## 📊 Machine Learning & Data Science (19 published)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -87,6 +87,7 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Used Car Price Prediction](projects/048-car-price-prediction) | [Shalini Goyal](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe) | 4,289 | ✅ |
 | [Flight Ticket Price Prediction](projects/051-flight-price-prediction) | [Varun Sai Kanuri](https://www.kaggle.com/code/varunsaikanuri/flight-fare-prediction-10-ml-models) | 714 | 🔗 |
 | [Anomaly Detection](projects/054-anomaly-detection) | [Victor Ambonati](https://www.kaggle.com/code/victorambonati/unsupervised-anomaly-detection) | 1,445 | ✅ |
+| [Credit Risk Modeling](projects/057-credit-risk-modeling) | [Will Koehrsen](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction) | 9,237 | 🔗 |
 
 ## Getting started
 
