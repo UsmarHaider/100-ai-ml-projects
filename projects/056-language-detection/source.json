@@ -1,0 +1,22 @@
+{
+  "topic_id": "056",
+  "title": "Language Detection",
+  "domain": "NLP",
+  "kernel_ref": "martinkk5575/language-detection",
+  "kernel_url": "https://www.kaggle.com/code/martinkk5575/language-detection",
+  "kernel_title": "Language Detection",
+  "author": "Martin kleine Kalvelage",
+  "votes": "95",
+  "datasets": [
+    {
+      "ref": "zarajamshaid/language-identification-datasst",
+      "size_mb": 12.39,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/zarajamshaid/language-identification-datasst"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 34.0,
+  "pinned_manually": true
+}

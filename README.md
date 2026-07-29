@@ -1,6 +1,6 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-55%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-19-blue) ![NLP](https://img.shields.io/badge/NLP-18-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-56%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-19-blue) ![NLP](https://img.shields.io/badge/NLP-19-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-18-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 **New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
@@ -37,7 +37,7 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Dog Breed Identification](projects/052-dog-breed-identification) | [SiddhantOjha](https://www.kaggle.com/code/siddhantojha17/predicting-dog-species-using-resnet50) | 121 | 🔗 |
 | [Image Segmentation with U-Net](projects/055-image-segmentation-unet) | [Rishabh Agrahari](https://www.kaggle.com/code/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88) | 1,935 | ✅ |
 
-## 📝 Natural Language Processing (18 published)
+## 📝 Natural Language Processing (19 published)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -61,6 +61,7 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Resume Screening with NLP](projects/047-resume-screening-nlp) | [suditi pandey](https://www.kaggle.com/code/suditipandey/resume-screening-using-nlp) | 55 | 🔗 |
 | [Amazon Product Reviews Sentiment](projects/050-amazon-reviews-sentiment) | [Ben Roshan ](https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews) | 567 | ✅ |
 | [Quora Duplicate Question Detection](projects/053-quora-duplicate-questions) | [anokas](https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb) | 3,251 | 🔗 |
+| [Language Detection](projects/056-language-detection) | [Martin kleine Kalvelage](https://www.kaggle.com/code/martinkk5575/language-detection) | 95 | ✅ |
 
 ## 📊 Machine Learning & Data Science (18 published)
 
