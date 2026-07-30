@@ -1,0 +1,21 @@
+{
+  "topic_id": "073",
+  "title": "Transfer Learning with ResNet",
+  "domain": "CV",
+  "kernel_ref": "farzadnekouei/imbalanced-garbage-classification-resnet50",
+  "kernel_url": "https://www.kaggle.com/code/farzadnekouei/imbalanced-garbage-classification-resnet50",
+  "kernel_title": "Imbalanced Garbage Classification | ResNet50",
+  "author": "Farzad Nekouei",
+  "votes": "968",
+  "datasets": [
+    {
+      "ref": "farzadnekouei/trash-type-image-dataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 81.4
+}
