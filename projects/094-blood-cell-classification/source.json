@@ -1,0 +1,21 @@
+{
+  "topic_id": "094",
+  "title": "Blood Cell Image Classification",
+  "domain": "CV",
+  "kernel_ref": "paultimothymooney/identify-blood-cell-subtypes-from-images",
+  "kernel_url": "https://www.kaggle.com/code/paultimothymooney/identify-blood-cell-subtypes-from-images",
+  "kernel_title": "Identify Blood Cell Subtypes From Images",
+  "author": "Paul Mooney",
+  "votes": "834",
+  "datasets": [
+    {
+      "ref": "paultimothymooney/blood-cells",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/paultimothymooney/blood-cells"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 19.7
+}
