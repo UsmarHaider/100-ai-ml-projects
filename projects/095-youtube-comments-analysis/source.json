@@ -1,0 +1,22 @@
+{
+  "topic_id": "095",
+  "title": "YouTube Comments Sentiment Analysis",
+  "domain": "NLP",
+  "kernel_ref": "adepvenugopal/sentiment-analysis-of-youtube-comments",
+  "kernel_url": "https://www.kaggle.com/code/adepvenugopal/sentiment-analysis-of-youtube-comments",
+  "kernel_title": "Sentiment Analysis of YouTube Comments",
+  "author": "Venugopal Adep",
+  "votes": "150",
+  "datasets": [
+    {
+      "ref": "datasnaek/youtube",
+      "size_mb": 148.65,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/datasnaek/youtube"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 4.3,
+  "pinned_manually": true
+}
