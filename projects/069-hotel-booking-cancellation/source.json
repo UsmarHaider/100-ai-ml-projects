@@ -1,0 +1,21 @@
+{
+  "topic_id": "069",
+  "title": "Hotel Booking Cancellation Prediction",
+  "domain": "ML",
+  "kernel_ref": "niteshyadav3103/hotel-booking-prediction-99-5-acc",
+  "kernel_url": "https://www.kaggle.com/code/niteshyadav3103/hotel-booking-prediction-99-5-acc",
+  "kernel_title": "Hotel Booking Prediction (99.5% acc) ",
+  "author": "Nitesh Yadav",
+  "votes": "1504",
+  "datasets": [
+    {
+      "ref": "jessemostipak/hotel-booking-demand",
+      "size_mb": 16.07,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 51.6
+}
