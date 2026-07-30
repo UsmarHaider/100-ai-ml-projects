@@ -1,0 +1,32 @@
+{
+  "topic_id": "097",
+  "title": "Image Classification with Vision Transformers",
+  "domain": "CV",
+  "kernel_ref": "abhinand05/vision-transformer-vit-tutorial-baseline",
+  "kernel_url": "https://www.kaggle.com/code/abhinand05/vision-transformer-vit-tutorial-baseline",
+  "kernel_title": "Vision Transformer (ViT): Tutorial + Baseline",
+  "author": "Abhinand",
+  "votes": "2293",
+  "datasets": [
+    {
+      "ref": "abhinand05/vit-base-models-pretrained-pytorch",
+      "size_mb": 1390.97,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/abhinand05/vit-base-models-pretrained-pytorch"
+    },
+    {
+      "ref": "abhinand05/vittutorialillustrations",
+      "size_mb": 1.16,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/abhinand05/vittutorialillustrations"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "cassava-leaf-disease-classification",
+      "url": "https://www.kaggle.com/competitions/cassava-leaf-disease-classification"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 26.0
+}
