@@ -1,0 +1,21 @@
+{
+  "topic_id": "088",
+  "title": "Food Image Classification",
+  "domain": "CV",
+  "kernel_ref": "theimgclist/multiclass-food-classification-using-tensorflow",
+  "kernel_url": "https://www.kaggle.com/code/theimgclist/multiclass-food-classification-using-tensorflow",
+  "kernel_title": "Multiclass Food Classification using TensorFlow",
+  "author": "Avinash",
+  "votes": "885",
+  "datasets": [
+    {
+      "ref": "dansbecker/food-101",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/dansbecker/food-101"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 64.2
+}
