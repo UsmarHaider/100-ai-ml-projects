@@ -1,0 +1,33 @@
+{
+  "topic_id": "070",
+  "title": "Neural Style Transfer",
+  "domain": "CV",
+  "kernel_ref": "basu369victor/style-transfer-deep-learning-algorithm",
+  "kernel_url": "https://www.kaggle.com/code/basu369victor/style-transfer-deep-learning-algorithm",
+  "kernel_title": "Style Transfer Deep Learning Algorithm",
+  "author": "Victor Basu",
+  "votes": "933",
+  "datasets": [
+    {
+      "ref": "ikarus777/best-artworks-of-all-time",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time"
+    },
+    {
+      "ref": "duttadebadri/image-classification",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/duttadebadri/image-classification"
+    },
+    {
+      "ref": "crawford/vgg19",
+      "size_mb": 624.54,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/crawford/vgg19"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 27.0
+}
