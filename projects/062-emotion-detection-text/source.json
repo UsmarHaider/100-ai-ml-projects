@@ -1,0 +1,21 @@
+{
+  "topic_id": "062",
+  "title": "Emotion Detection from Text",
+  "domain": "NLP",
+  "kernel_ref": "shtrausslearning/twitter-emotion-classification",
+  "kernel_url": "https://www.kaggle.com/code/shtrausslearning/twitter-emotion-classification",
+  "kernel_title": "Twitter Emotion Classification",
+  "author": "Andrey Shtrauss",
+  "votes": "498",
+  "datasets": [
+    {
+      "ref": "parulpandey/emotion-dataset",
+      "size_mb": 1.92,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/parulpandey/emotion-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 55.7
+}
