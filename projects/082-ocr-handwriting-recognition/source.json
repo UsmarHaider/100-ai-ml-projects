@@ -1,0 +1,27 @@
+{
+  "topic_id": "082",
+  "title": "OCR Handwriting Recognition",
+  "domain": "CV",
+  "kernel_ref": "aman10kr/offline-handwritten-text-ocr",
+  "kernel_url": "https://www.kaggle.com/code/aman10kr/offline-handwritten-text-ocr",
+  "kernel_title": "Offline Handwritten Text OCR",
+  "author": "Aman Kumar",
+  "votes": "1694",
+  "datasets": [
+    {
+      "ref": "landlord/handwriting-recognition",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/landlord/handwriting-recognition"
+    },
+    {
+      "ref": "vaibhao/handwritten-characters",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/vaibhao/handwritten-characters"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 11.9
+}
