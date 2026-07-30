@@ -1,0 +1,21 @@
+{
+  "topic_id": "080",
+  "title": "Hate Speech Detection",
+  "domain": "NLP",
+  "kernel_ref": "pradneshlachake/twitter-sentiment-analysis-nlp-smote",
+  "kernel_url": "https://www.kaggle.com/code/pradneshlachake/twitter-sentiment-analysis-nlp-smote",
+  "kernel_title": "Twitter Sentiment Analysis: NLP, SMOTE",
+  "author": "Pradnesh Lachake",
+  "votes": "96",
+  "datasets": [
+    {
+      "ref": "arkhoshghalb/twitter-sentiment-analysis-hatred-speech",
+      "size_mb": 4.52,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 20.5
+}
