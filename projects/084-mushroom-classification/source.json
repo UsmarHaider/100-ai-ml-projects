@@ -1,0 +1,26 @@
+{
+  "topic_id": "084",
+  "title": "Mushroom Edibility Classification",
+  "domain": "ML",
+  "kernel_ref": "satyaprakashshukl/mushroom-classification-analysis",
+  "kernel_url": "https://www.kaggle.com/code/satyaprakashshukl/mushroom-classification-analysis",
+  "kernel_title": "\ud83c\udf34Mushroom\ud83c\udf89Classification\ud83d\udcc8Analysis",
+  "author": "Satya",
+  "votes": "484",
+  "datasets": [
+    {
+      "ref": "uciml/mushroom-classification",
+      "size_mb": 0.36,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/uciml/mushroom-classification"
+    }
+  ],
+  "competitions": [
+    {
+      "ref": "playground-series-s4e8",
+      "url": "https://www.kaggle.com/competitions/playground-series-s4e8"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 258.9
+}
