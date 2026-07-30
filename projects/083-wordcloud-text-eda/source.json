@@ -1,0 +1,19 @@
+{
+  "topic_id": "083",
+  "title": "Text EDA and Word Clouds",
+  "domain": "NLP",
+  "kernel_ref": "arthurtok/spooky-nlp-and-topic-modelling-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/arthurtok/spooky-nlp-and-topic-modelling-tutorial",
+  "kernel_title": "Spooky NLP and Topic Modelling tutorial",
+  "author": "Anisotropic",
+  "votes": "2459",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "spooky-author-identification",
+      "url": "https://www.kaggle.com/competitions/spooky-author-identification"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 159.5
+}
