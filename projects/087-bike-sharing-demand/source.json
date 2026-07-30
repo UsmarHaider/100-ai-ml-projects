@@ -1,0 +1,19 @@
+{
+  "topic_id": "087",
+  "title": "Bike Sharing Demand Prediction",
+  "domain": "ML",
+  "kernel_ref": "kagleo123/bike-sharing-eda-regression-model-predict",
+  "kernel_url": "https://www.kaggle.com/code/kagleo123/bike-sharing-eda-regression-model-predict",
+  "kernel_title": "\ud83d\udeb4\u200d\u2640\ufe0fBike Sharing EDA\ud83d\udcc8&Regression Model Predict\ud83d\udca1",
+  "author": "wngus_",
+  "votes": "144",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "bike-sharing-demand",
+      "url": "https://www.kaggle.com/competitions/bike-sharing-demand"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 68.6
+}
