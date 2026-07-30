@@ -1,0 +1,22 @@
+{
+  "topic_id": "076",
+  "title": "Satellite Image Classification",
+  "domain": "CV",
+  "kernel_ref": "sujithmandala/satellite-image-classification-cnn",
+  "kernel_url": "https://www.kaggle.com/code/sujithmandala/satellite-image-classification-cnn",
+  "kernel_title": "\ud83d\udef0\ufe0fSatellite Image Classification | CNN",
+  "author": "Sujith K Mandala",
+  "votes": "389",
+  "datasets": [
+    {
+      "ref": "mahmoudreda55/satellite-image-classification",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 22.9,
+  "pinned_manually": true
+}
