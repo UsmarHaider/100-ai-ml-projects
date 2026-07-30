@@ -1,0 +1,21 @@
+{
+  "topic_id": "075",
+  "title": "Rain Prediction in Australia",
+  "domain": "ML",
+  "kernel_ref": "prashant111/logistic-regression-classifier-tutorial",
+  "kernel_url": "https://www.kaggle.com/code/prashant111/logistic-regression-classifier-tutorial",
+  "kernel_title": "Logistic Regression Classifier Tutorial",
+  "author": "Prashant Banerjee",
+  "votes": "2791",
+  "datasets": [
+    {
+      "ref": "jsphyg/weather-dataset-rattle-package",
+      "size_mb": 13.44,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 70.0
+}
