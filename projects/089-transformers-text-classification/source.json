@@ -1,0 +1,19 @@
+{
+  "topic_id": "089",
+  "title": "Transformer Models for Text Classification",
+  "domain": "NLP",
+  "kernel_ref": "maroberti/fastai-with-transformers-bert-roberta",
+  "kernel_url": "https://www.kaggle.com/code/maroberti/fastai-with-transformers-bert-roberta",
+  "kernel_title": "Fastai with \ud83e\udd17 Transformers (BERT, RoBERTa, ...)",
+  "author": "Maximilien Roberti",
+  "votes": "1230",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "sentiment-analysis-on-movie-reviews",
+      "url": "https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 40.2
+}
