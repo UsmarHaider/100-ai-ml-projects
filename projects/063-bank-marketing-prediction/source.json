@@ -1,0 +1,21 @@
+{
+  "topic_id": "063",
+  "title": "Bank Term Deposit Marketing Prediction",
+  "domain": "ML",
+  "kernel_ref": "janiobachmann/bank-marketing-campaign-opening-a-term-deposit",
+  "kernel_url": "https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit",
+  "kernel_title": "Bank Marketing Campaign || Opening a Term Deposit",
+  "author": "Janio Martinez Bachmann",
+  "votes": "2385",
+  "datasets": [
+    {
+      "ref": "janiobachmann/bank-marketing-dataset",
+      "size_mb": 0.88,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 79.5
+}
