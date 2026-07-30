@@ -1,0 +1,21 @@
+{
+  "topic_id": "060",
+  "title": "Energy Consumption Forecasting",
+  "domain": "ML",
+  "kernel_ref": "robikscube/time-series-forecasting-with-machine-learning-yt",
+  "kernel_url": "https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt",
+  "kernel_title": "Time Series Forecasting with Machine Learning [YT]",
+  "author": "Rob Mulla",
+  "votes": "4980",
+  "datasets": [
+    {
+      "ref": "robikscube/hourly-energy-consumption",
+      "size_mb": 44.14,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 11.1
+}
