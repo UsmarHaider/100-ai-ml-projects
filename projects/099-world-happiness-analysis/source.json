@@ -1,0 +1,27 @@
+{
+  "topic_id": "099",
+  "title": "World Happiness Report Analysis",
+  "domain": "ML",
+  "kernel_ref": "joshuaswords/awesome-eda-2021-happiness-population",
+  "kernel_url": "https://www.kaggle.com/code/joshuaswords/awesome-eda-2021-happiness-population",
+  "kernel_title": "[Awesome EDA] 2021 Happiness & Population",
+  "author": "Josh",
+  "votes": "701",
+  "datasets": [
+    {
+      "ref": "tanuprabhu/population-by-country-2020",
+      "size_mb": 0.02,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020"
+    },
+    {
+      "ref": "ajaypalsinghlo/world-happiness-report-2021",
+      "size_mb": 0.15,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 73.2
+}
