@@ -1,0 +1,19 @@
+{
+  "topic_id": "067",
+  "title": "Image Generation with GANs",
+  "domain": "CV",
+  "kernel_ref": "jesucristo/gan-introduction",
+  "kernel_url": "https://www.kaggle.com/code/jesucristo/gan-introduction",
+  "kernel_title": "GAN Introduction",
+  "author": "Nanashi",
+  "votes": "1950",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "generative-dog-images",
+      "url": "https://www.kaggle.com/competitions/generative-dog-images"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 37.6
+}
