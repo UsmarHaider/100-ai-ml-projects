@@ -1,0 +1,22 @@
+{
+  "topic_id": "092",
+  "title": "Spelling Correction System",
+  "domain": "NLP",
+  "kernel_ref": "jayantyadav2003/spelling-autocorrection-system",
+  "kernel_url": "https://www.kaggle.com/code/jayantyadav2003/spelling-autocorrection-system",
+  "kernel_title": "Spelling AutoCorrection system",
+  "author": "Jayant Yadav",
+  "votes": "11",
+  "datasets": [
+    {
+      "ref": "",
+      "size_mb": null,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 72.0,
+  "pinned_manually": true
+}
