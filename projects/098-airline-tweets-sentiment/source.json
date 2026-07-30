@@ -1,0 +1,27 @@
+{
+  "topic_id": "098",
+  "title": "Airline Tweets Sentiment Analysis",
+  "domain": "NLP",
+  "kernel_ref": "bansodesandeep/sentiment-analysis-support-vector-machine",
+  "kernel_url": "https://www.kaggle.com/code/bansodesandeep/sentiment-analysis-support-vector-machine",
+  "kernel_title": "Sentiment Analysis: Support Vector Machine",
+  "author": "Sandeep Bansode",
+  "votes": "422",
+  "datasets": [
+    {
+      "ref": "crowdflower/twitter-airline-sentiment",
+      "size_mb": 8.07,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment"
+    },
+    {
+      "ref": "bansodesandeep/us-airline-data",
+      "size_mb": 3.24,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/bansodesandeep/us-airline-data"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 37.1
+}
