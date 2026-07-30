@@ -1,0 +1,21 @@
+{
+  "topic_id": "074",
+  "title": "Song Lyrics Analysis & Generation",
+  "domain": "NLP",
+  "kernel_ref": "cluesec/sentiment-analysis-and-lyrics-generation-with-lstm",
+  "kernel_url": "https://www.kaggle.com/code/cluesec/sentiment-analysis-and-lyrics-generation-with-lstm",
+  "kernel_title": "Sentiment Analysis and Lyrics Generation with LSTM",
+  "author": "ClueSec",
+  "votes": "49",
+  "datasets": [
+    {
+      "ref": "cluesec/portishead-songs-dataset",
+      "size_mb": 0.08,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/cluesec/portishead-songs-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 10.4
+}
