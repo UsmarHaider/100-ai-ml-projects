@@ -1,0 +1,22 @@
+{
+  "topic_id": "079",
+  "title": "Image Denoising with Autoencoders",
+  "domain": "CV",
+  "kernel_ref": "alaaeddinebenzekri/image-denoising-using-autoencoder-pytorch",
+  "kernel_url": "https://www.kaggle.com/code/alaaeddinebenzekri/image-denoising-using-autoencoder-pytorch",
+  "kernel_title": "Image Denoising using AutoEncoder (PyTorch\ud83d\udd25)",
+  "author": "Alaa Eddine Ben Zekri",
+  "votes": "166",
+  "datasets": [
+    {
+      "ref": "greatgamedota/ffhq-face-data-set",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/greatgamedota/ffhq-face-data-set"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 616.0,
+  "pinned_manually": true
+}
