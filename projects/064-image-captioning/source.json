@@ -1,0 +1,27 @@
+{
+  "topic_id": "064",
+  "title": "Image Captioning with CNN-LSTM",
+  "domain": "CV",
+  "kernel_ref": "quadeer15sh/flickr8k-image-captioning-using-cnns-lstms",
+  "kernel_url": "https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lstms",
+  "kernel_title": "Flickr8K Image Captioning using CNNs+LSTMs",
+  "author": "Quadeer Shaikh",
+  "votes": "2198",
+  "datasets": [
+    {
+      "ref": "adityajn105/flickr8k",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/adityajn105/flickr8k"
+    },
+    {
+      "ref": "hsankesara/flickr-image-dataset",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 23.7
+}
