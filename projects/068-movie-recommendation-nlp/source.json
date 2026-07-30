@@ -1,0 +1,27 @@
+{
+  "topic_id": "068",
+  "title": "Movie Recommendation with NLP",
+  "domain": "NLP",
+  "kernel_ref": "ibtesama/getting-started-with-a-movie-recommendation-system",
+  "kernel_url": "https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system",
+  "kernel_title": "Getting Started with a Movie Recommendation System",
+  "author": "Ibtesam Ahmed",
+  "votes": "8068",
+  "datasets": [
+    {
+      "ref": "rounakbanik/the-movies-dataset",
+      "size_mb": 900.04,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset"
+    },
+    {
+      "ref": "tmdb/tmdb-movie-metadata",
+      "size_mb": 43.62,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 41.1
+}
