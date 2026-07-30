@@ -1,0 +1,21 @@
+{
+  "topic_id": "071",
+  "title": "Keyword Extraction from Text",
+  "domain": "NLP",
+  "kernel_ref": "akhatova/extract-keywords",
+  "kernel_url": "https://www.kaggle.com/code/akhatova/extract-keywords",
+  "kernel_title": "Extract Keywords",
+  "author": "Alfiia Akhatova",
+  "votes": "183",
+  "datasets": [
+    {
+      "ref": "benhamner/nips-papers",
+      "size_mb": 407.83,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/benhamner/nips-papers"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 24.4
+}
