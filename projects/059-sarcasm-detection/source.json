@@ -1,0 +1,27 @@
+{
+  "topic_id": "059",
+  "title": "Sarcasm Detection in Headlines",
+  "domain": "NLP",
+  "kernel_ref": "madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy",
+  "kernel_url": "https://www.kaggle.com/code/madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy",
+  "kernel_title": "Sarcasm Detection with GloVe/Word2Vec(83%Accuracy)",
+  "author": "Madhav Mathur",
+  "votes": "545",
+  "datasets": [
+    {
+      "ref": "icw123/glove-twitter",
+      "size_mb": 3669.59,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/icw123/glove-twitter"
+    },
+    {
+      "ref": "rmisra/news-headlines-dataset-for-sarcasm-detection",
+      "size_mb": 11.13,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 389.0
+}
