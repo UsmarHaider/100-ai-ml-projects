@@ -1,0 +1,21 @@
+{
+  "topic_id": "093",
+  "title": "Netflix Movies & Shows EDA",
+  "domain": "ML",
+  "kernel_ref": "bansodesandeep/netflix-movies-and-tv-shows-clustering",
+  "kernel_url": "https://www.kaggle.com/code/bansodesandeep/netflix-movies-and-tv-shows-clustering",
+  "kernel_title": "\ud83c\udf7f\ud83e\udd64Netflix Movies and TV Shows: Clustering",
+  "author": "Sandeep Bansode",
+  "votes": "824",
+  "datasets": [
+    {
+      "ref": "bansodesandeep/netflix-movies-and-tv-shows",
+      "size_mb": 2.86,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/bansodesandeep/netflix-movies-and-tv-shows"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 96.7
+}
