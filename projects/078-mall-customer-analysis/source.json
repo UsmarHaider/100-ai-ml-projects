@@ -1,0 +1,21 @@
+{
+  "topic_id": "078",
+  "title": "Mall Customer Spending Analysis",
+  "domain": "ML",
+  "kernel_ref": "heeraldedhia/kmeans-clustering-for-customer-data",
+  "kernel_url": "https://www.kaggle.com/code/heeraldedhia/kmeans-clustering-for-customer-data",
+  "kernel_title": "KMeans Clustering for Customer Data",
+  "author": "Heeral Dedhia",
+  "votes": "1063",
+  "datasets": [
+    {
+      "ref": "vjchoudhary7/customer-segmentation-tutorial-in-python",
+      "size_mb": 0.0,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 12.5
+}
