@@ -1,0 +1,14 @@
+{
+  "topic_id": "096",
+  "title": "COVID-19 Data Analysis & Visualization",
+  "domain": "ML",
+  "kernel_ref": "therealcyberlord/coronavirus-covid-19-visualization-prediction",
+  "kernel_url": "https://www.kaggle.com/code/therealcyberlord/coronavirus-covid-19-visualization-prediction",
+  "kernel_title": "Coronavirus (COVID-19) Visualization & Prediction",
+  "author": "Xingyu Bian",
+  "votes": "8990",
+  "datasets": [],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 62.3
+}
