@@ -1,0 +1,14 @@
+{
+  "topic_id": "065",
+  "title": "Text Classification with BERT",
+  "domain": "NLP",
+  "kernel_ref": "tahmidmir/sentiment-analysis-lora-distilbert",
+  "kernel_url": "https://www.kaggle.com/code/tahmidmir/sentiment-analysis-lora-distilbert",
+  "kernel_title": "\ud83d\udd35Sentiment Analysis \u25b4LoRA \u25b4DistilBERT\ud83d\udd35",
+  "author": "Mir Tahmid",
+  "votes": "145",
+  "datasets": [],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 12.3
+}
