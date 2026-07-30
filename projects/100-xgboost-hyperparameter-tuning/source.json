@@ -1,0 +1,21 @@
+{
+  "topic_id": "100",
+  "title": "XGBoost Hyperparameter Tuning Guide",
+  "domain": "ML",
+  "kernel_ref": "prashant111/a-guide-on-xgboost-hyperparameters-tuning",
+  "kernel_url": "https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning",
+  "kernel_title": "A Guide on XGBoost hyperparameters tuning",
+  "author": "Prashant Banerjee",
+  "votes": "1995",
+  "datasets": [
+    {
+      "ref": "binovi/wholesale-customers-data-set",
+      "size_mb": 0.01,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 32.5
+}
