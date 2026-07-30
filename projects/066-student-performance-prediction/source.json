@@ -1,0 +1,19 @@
+{
+  "topic_id": "066",
+  "title": "Student Performance Prediction",
+  "domain": "ML",
+  "kernel_ref": "cdeotte/xgboost-baseline-0-680",
+  "kernel_url": "https://www.kaggle.com/code/cdeotte/xgboost-baseline-0-680",
+  "kernel_title": "XGBoost Baseline - [0.680]",
+  "author": "Chris Deotte",
+  "votes": "1306",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "predict-student-performance-from-game-play",
+      "url": "https://www.kaggle.com/competitions/predict-student-performance-from-game-play"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 20.3
+}
