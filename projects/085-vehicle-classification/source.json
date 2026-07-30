@@ -1,0 +1,22 @@
+{
+  "topic_id": "085",
+  "title": "Vehicle Type Classification",
+  "domain": "CV",
+  "kernel_ref": "paultimothymooney/stanford-cars-dataset-with-fastai-v1",
+  "kernel_url": "https://www.kaggle.com/code/paultimothymooney/stanford-cars-dataset-with-fastai-v1",
+  "kernel_title": "Stanford Cars Dataset with Fastai V1",
+  "author": "Paul Mooney",
+  "votes": "113",
+  "datasets": [
+    {
+      "ref": "jutrera/stanford-car-dataset-by-classes-folder",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 3.2,
+  "pinned_manually": true
+}
