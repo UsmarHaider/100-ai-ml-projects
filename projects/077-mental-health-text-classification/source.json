@@ -1,0 +1,21 @@
+{
+  "topic_id": "077",
+  "title": "Mental Health Text Classification",
+  "domain": "NLP",
+  "kernel_ref": "annastasy/mental-health-sentiment-analysis-nlp-ml",
+  "kernel_url": "https://www.kaggle.com/code/annastasy/mental-health-sentiment-analysis-nlp-ml",
+  "kernel_title": "Mental Health Sentiment Analysis | NLP | ML \ud83e\udde0\ud83c\udf1f",
+  "author": "Anna Balatska",
+  "votes": "385",
+  "datasets": [
+    {
+      "ref": "suchintikasarkar/sentiment-analysis-for-mental-health",
+      "size_mb": 30.01,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 28.4
+}
