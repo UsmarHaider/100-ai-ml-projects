@@ -1,0 +1,27 @@
+{
+  "topic_id": "061",
+  "title": "Face Detection with OpenCV",
+  "domain": "CV",
+  "kernel_ref": "serkanpeldek/face-detection-with-opencv",
+  "kernel_url": "https://www.kaggle.com/code/serkanpeldek/face-detection-with-opencv",
+  "kernel_title": "Face Detection with OpenCV",
+  "author": "Serkan Peldek",
+  "votes": "2090",
+  "datasets": [
+    {
+      "ref": "",
+      "size_mb": null,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/"
+    },
+    {
+      "ref": "atulanandjha/lfwpeople",
+      "size_mb": 232.3,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/atulanandjha/lfwpeople"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 12.0
+}
