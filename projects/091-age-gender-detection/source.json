@@ -1,0 +1,21 @@
+{
+  "topic_id": "091",
+  "title": "Age and Gender Detection from Faces",
+  "domain": "CV",
+  "kernel_ref": "uzzivirus/age-and-gender-detection",
+  "kernel_url": "https://www.kaggle.com/code/uzzivirus/age-and-gender-detection",
+  "kernel_title": "Age and Gender Detection",
+  "author": "Uzair Siddiqui",
+  "votes": "641",
+  "datasets": [
+    {
+      "ref": "jangedoo/utkface-new",
+      "size_mb": Infinity,
+      "downloaded": false,
+      "url": "https://www.kaggle.com/datasets/jangedoo/utkface-new"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 8.9
+}
