@@ -1,0 +1,21 @@
+{
+  "topic_id": "072",
+  "title": "Water Potability Prediction",
+  "domain": "ML",
+  "kernel_ref": "imakash3011/water-quality-prediction-7-model",
+  "kernel_url": "https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model",
+  "kernel_title": "Water Quality Prediction ( 7 model )",
+  "author": "Akash Patel",
+  "votes": "945",
+  "datasets": [
+    {
+      "ref": "adityakadiwal/water-potability",
+      "size_mb": 0.5,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/adityakadiwal/water-potability"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 49.1
+}
