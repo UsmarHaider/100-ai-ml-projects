@@ -1,0 +1,21 @@
+{
+  "topic_id": "090",
+  "title": "Uber Trips Data Analysis",
+  "domain": "ML",
+  "kernel_ref": "yasserh/uber-fare-prediction-comparing-best-ml-models",
+  "kernel_url": "https://www.kaggle.com/code/yasserh/uber-fare-prediction-comparing-best-ml-models",
+  "kernel_title": "Uber Fare Prediction - (Comparing Best ML Models)",
+  "author": "M Yasser H",
+  "votes": "454",
+  "datasets": [
+    {
+      "ref": "yasserh/uber-fares-dataset",
+      "size_mb": 22.37,
+      "downloaded": true,
+      "url": "https://www.kaggle.com/datasets/yasserh/uber-fares-dataset"
+    }
+  ],
+  "competitions": [],
+  "dataset_reused": [],
+  "notebook_size_kb": 46.3
+}
