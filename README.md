@@ -1,8 +1,8 @@
 # 100 AI/ML Projects — CV · NLP · ML
 
-![Progress](https://img.shields.io/badge/published-58%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-20-blue) ![NLP](https://img.shields.io/badge/NLP-19-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-19-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Progress](https://img.shields.io/badge/published-100%2F100-brightgreen) ![CV](https://img.shields.io/badge/Computer%20Vision-33-blue) ![NLP](https://img.shields.io/badge/NLP-33-orange) ![ML](https://img.shields.io/badge/Machine%20Learning-34-purple) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
-**New projects published regularly** — building up to 100 end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
+**All 100 projects are live** — end-to-end data science projects across computer vision, natural language processing and classic machine learning. Each project folder contains:
 
 - `notebook.ipynb` — a complete, runnable Jupyter notebook (curated from top-voted Kaggle work)
 - `README.md` — a full report: problem, dataset, approach, results and how to run
@@ -11,7 +11,7 @@
 
 > **Attribution.** These notebooks are adapted from publicly shared Kaggle kernels; every project README credits its original author with links to the source kernel and dataset. Original works remain under their authors' licenses (typically Apache 2.0).
 
-## 🖼 Computer Vision (20 published)
+## 🖼 Computer Vision (33 projects)
 
 Image classification, detection, segmentation, GANs, OCR and medical imaging.
 
@@ -37,8 +37,21 @@ Image classification, detection, segmentation, GANs, OCR and medical imaging.
 | [Dog Breed Identification](projects/052-dog-breed-identification) | [SiddhantOjha](https://www.kaggle.com/code/siddhantojha17/predicting-dog-species-using-resnet50) | 121 | 🔗 |
 | [Image Segmentation with U-Net](projects/055-image-segmentation-unet) | [Rishabh Agrahari](https://www.kaggle.com/code/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88) | 1,935 | ✅ |
 | [Object Detection with YOLO](projects/058-object-detection-yolo) | [heartkilla](https://www.kaggle.com/code/aruchomu/yolo-v3-object-detection-in-tensorflow) | 6,063 | 🔗 |
+| [Face Detection with OpenCV](projects/061-face-detection-opencv) | [Serkan Peldek](https://www.kaggle.com/code/serkanpeldek/face-detection-with-opencv) | 2,090 | 🔗 |
+| [Image Captioning with CNN-LSTM](projects/064-image-captioning) | [Quadeer Shaikh](https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lstms) | 2,198 | 🔗 |
+| [Image Generation with GANs](projects/067-gan-image-generation) | [Nanashi](https://www.kaggle.com/code/jesucristo/gan-introduction) | 1,950 | 🔗 |
+| [Neural Style Transfer](projects/070-neural-style-transfer) | [Victor Basu](https://www.kaggle.com/code/basu369victor/style-transfer-deep-learning-algorithm) | 933 | 🔗 |
+| [Transfer Learning with ResNet](projects/073-transfer-learning-resnet) | [Farzad Nekouei](https://www.kaggle.com/code/farzadnekouei/imbalanced-garbage-classification-resnet50) | 968 | 🔗 |
+| [Satellite Image Classification](projects/076-satellite-image-classification) | [Sujith K Mandala](https://www.kaggle.com/code/sujithmandala/satellite-image-classification-cnn) | 389 | 🔗 |
+| [Image Denoising with Autoencoders](projects/079-autoencoder-image-denoising) | [Alaa Eddine Ben Zekri](https://www.kaggle.com/code/alaaeddinebenzekri/image-denoising-using-autoencoder-pytorch) | 166 | 🔗 |
+| [OCR Handwriting Recognition](projects/082-ocr-handwriting-recognition) | [Aman Kumar](https://www.kaggle.com/code/aman10kr/offline-handwritten-text-ocr) | 1,694 | 🔗 |
+| [Vehicle Type Classification](projects/085-vehicle-classification) | [Paul Mooney](https://www.kaggle.com/code/paultimothymooney/stanford-cars-dataset-with-fastai-v1) | 113 | 🔗 |
+| [Food Image Classification](projects/088-food-image-classification) | [Avinash](https://www.kaggle.com/code/theimgclist/multiclass-food-classification-using-tensorflow) | 885 | 🔗 |
+| [Age and Gender Detection from Faces](projects/091-age-gender-detection) | [Uzair Siddiqui](https://www.kaggle.com/code/uzzivirus/age-and-gender-detection) | 641 | 🔗 |
+| [Blood Cell Image Classification](projects/094-blood-cell-classification) | [Paul Mooney](https://www.kaggle.com/code/paultimothymooney/identify-blood-cell-subtypes-from-images) | 834 | 🔗 |
+| [Image Classification with Vision Transformers](projects/097-vision-transformer-classification) | [Abhinand](https://www.kaggle.com/code/abhinand05/vision-transformer-vit-tutorial-baseline) | 2,293 | 🔗 |
 
-## 📝 Natural Language Processing (19 published)
+## 📝 Natural Language Processing (33 projects)
 
 Sentiment analysis, text classification, transformers, NER, summarization and topic modeling.
 
@@ -63,8 +76,22 @@ Sentiment analysis, text classification, transformers, NER, summarization and to
 | [Amazon Product Reviews Sentiment](projects/050-amazon-reviews-sentiment) | [Ben Roshan ](https://www.kaggle.com/code/benroshan/sentiment-analysis-amazon-reviews) | 567 | ✅ |
 | [Quora Duplicate Question Detection](projects/053-quora-duplicate-questions) | [anokas](https://www.kaggle.com/code/anokas/data-analysis-xgboost-starter-0-35460-lb) | 3,251 | 🔗 |
 | [Language Detection](projects/056-language-detection) | [Martin kleine Kalvelage](https://www.kaggle.com/code/martinkk5575/language-detection) | 95 | ✅ |
+| [Sarcasm Detection in Headlines](projects/059-sarcasm-detection) | [Madhav Mathur](https://www.kaggle.com/code/madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy) | 545 | 🔗 |
+| [Emotion Detection from Text](projects/062-emotion-detection-text) | [Andrey Shtrauss](https://www.kaggle.com/code/shtrausslearning/twitter-emotion-classification) | 498 | ✅ |
+| [Text Classification with BERT](projects/065-bert-text-classification) | [Mir Tahmid](https://www.kaggle.com/code/tahmidmir/sentiment-analysis-lora-distilbert) | 145 | 🔗 |
+| [Movie Recommendation with NLP](projects/068-movie-recommendation-nlp) | [Ibtesam Ahmed](https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system) | 8,068 | 🔗 |
+| [Keyword Extraction from Text](projects/071-keyword-extraction) | [Alfiia Akhatova](https://www.kaggle.com/code/akhatova/extract-keywords) | 183 | 🔗 |
+| [Song Lyrics Analysis & Generation](projects/074-song-lyrics-analysis) | [ClueSec](https://www.kaggle.com/code/cluesec/sentiment-analysis-and-lyrics-generation-with-lstm) | 49 | ✅ |
+| [Mental Health Text Classification](projects/077-mental-health-text-classification) | [Anna Balatska](https://www.kaggle.com/code/annastasy/mental-health-sentiment-analysis-nlp-ml) | 385 | 🔗 |
+| [Hate Speech Detection](projects/080-hate-speech-detection) | [Pradnesh Lachake](https://www.kaggle.com/code/pradneshlachake/twitter-sentiment-analysis-nlp-smote) | 96 | ✅ |
+| [Text EDA and Word Clouds](projects/083-wordcloud-text-eda) | [Anisotropic](https://www.kaggle.com/code/arthurtok/spooky-nlp-and-topic-modelling-tutorial) | 2,459 | 🔗 |
+| [Stock Market News Sentiment Analysis](projects/086-stock-news-sentiment) | [DJ Sterling](https://www.kaggle.com/code/dster/two-sigma-news-official-getting-started-kernel) | 3,933 | 🔗 |
+| [Transformer Models for Text Classification](projects/089-transformers-text-classification) | [Maximilien Roberti](https://www.kaggle.com/code/maroberti/fastai-with-transformers-bert-roberta) | 1,230 | 🔗 |
+| [Spelling Correction System](projects/092-spelling-correction-nlp) | [Jayant Yadav](https://www.kaggle.com/code/jayantyadav2003/spelling-autocorrection-system) | 11 | 🔗 |
+| [YouTube Comments Sentiment Analysis](projects/095-youtube-comments-analysis) | [Venugopal Adep](https://www.kaggle.com/code/adepvenugopal/sentiment-analysis-of-youtube-comments) | 150 | 🔗 |
+| [Airline Tweets Sentiment Analysis](projects/098-airline-tweets-sentiment) | [Sandeep Bansode](https://www.kaggle.com/code/bansodesandeep/sentiment-analysis-support-vector-machine) | 422 | ✅ |
 
-## 📊 Machine Learning & Data Science (19 published)
+## 📊 Machine Learning & Data Science (34 projects)
 
 Regression, classification, clustering, time series, recommenders and EDA.
 
@@ -89,6 +116,21 @@ Regression, classification, clustering, time series, recommenders and EDA.
 | [Flight Ticket Price Prediction](projects/051-flight-price-prediction) | [Varun Sai Kanuri](https://www.kaggle.com/code/varunsaikanuri/flight-fare-prediction-10-ml-models) | 714 | 🔗 |
 | [Anomaly Detection](projects/054-anomaly-detection) | [Victor Ambonati](https://www.kaggle.com/code/victorambonati/unsupervised-anomaly-detection) | 1,445 | ✅ |
 | [Credit Risk Modeling](projects/057-credit-risk-modeling) | [Will Koehrsen](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction) | 9,237 | 🔗 |
+| [Energy Consumption Forecasting](projects/060-energy-consumption-forecasting) | [Rob Mulla](https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt) | 4,980 | 🔗 |
+| [Bank Term Deposit Marketing Prediction](projects/063-bank-marketing-prediction) | [Janio Martinez Bachmann](https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit) | 2,385 | ✅ |
+| [Student Performance Prediction](projects/066-student-performance-prediction) | [Chris Deotte](https://www.kaggle.com/code/cdeotte/xgboost-baseline-0-680) | 1,306 | 🔗 |
+| [Hotel Booking Cancellation Prediction](projects/069-hotel-booking-cancellation) | [Nitesh Yadav](https://www.kaggle.com/code/niteshyadav3103/hotel-booking-prediction-99-5-acc) | 1,504 | ✅ |
+| [Water Potability Prediction](projects/072-water-quality-prediction) | [Akash Patel](https://www.kaggle.com/code/imakash3011/water-quality-prediction-7-model) | 945 | ✅ |
+| [Rain Prediction in Australia](projects/075-rain-prediction-australia) | [Prashant Banerjee](https://www.kaggle.com/code/prashant111/logistic-regression-classifier-tutorial) | 2,791 | ✅ |
+| [Mall Customer Spending Analysis](projects/078-mall-customer-analysis) | [Heeral Dedhia](https://www.kaggle.com/code/heeraldedhia/kmeans-clustering-for-customer-data) | 1,063 | ✅ |
+| [BigMart Sales Prediction](projects/081-bigmart-sales-prediction) | [Hiral](https://www.kaggle.com/code/hiralmshah/bigmart-sales-prediction) | 351 | ✅ |
+| [Mushroom Edibility Classification](projects/084-mushroom-classification) | [Satya](https://www.kaggle.com/code/satyaprakashshukl/mushroom-classification-analysis) | 484 | ✅ |
+| [Bike Sharing Demand Prediction](projects/087-bike-sharing-demand) | [wngus_](https://www.kaggle.com/code/kagleo123/bike-sharing-eda-regression-model-predict) | 144 | 🔗 |
+| [Uber Trips Data Analysis](projects/090-uber-trip-analysis) | [M Yasser H](https://www.kaggle.com/code/yasserh/uber-fare-prediction-comparing-best-ml-models) | 454 | ✅ |
+| [Netflix Movies & Shows EDA](projects/093-netflix-data-analysis) | [Sandeep Bansode](https://www.kaggle.com/code/bansodesandeep/netflix-movies-and-tv-shows-clustering) | 824 | ✅ |
+| [COVID-19 Data Analysis & Visualization](projects/096-covid19-data-analysis) | [Xingyu Bian](https://www.kaggle.com/code/therealcyberlord/coronavirus-covid-19-visualization-prediction) | 8,990 | 🔗 |
+| [World Happiness Report Analysis](projects/099-world-happiness-analysis) | [Josh](https://www.kaggle.com/code/joshuaswords/awesome-eda-2021-happiness-population) | 701 | ✅ |
+| [XGBoost Hyperparameter Tuning Guide](projects/100-xgboost-hyperparameter-tuning) | [Prashant Banerjee](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning) | 1,995 | ✅ |
 
 ## Getting started
 
