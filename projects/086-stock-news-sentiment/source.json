@@ -1,0 +1,19 @@
+{
+  "topic_id": "086",
+  "title": "Stock Market News Sentiment Analysis",
+  "domain": "NLP",
+  "kernel_ref": "dster/two-sigma-news-official-getting-started-kernel",
+  "kernel_url": "https://www.kaggle.com/code/dster/two-sigma-news-official-getting-started-kernel",
+  "kernel_title": "Two Sigma News Official Getting Started Kernel",
+  "author": "DJ Sterling",
+  "votes": "3933",
+  "datasets": [],
+  "competitions": [
+    {
+      "ref": "two-sigma-financial-news",
+      "url": "https://www.kaggle.com/competitions/two-sigma-financial-news"
+    }
+  ],
+  "dataset_reused": [],
+  "notebook_size_kb": 12.4
+}
